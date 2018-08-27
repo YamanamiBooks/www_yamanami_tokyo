@@ -4,8 +4,8 @@ const cleanCSS = require('gulp-clean-css');
 const rename = require('gulp-rename')
 
 var paths = "public/**/*.html"
-var css_path = "layouts/partials/*.css"
-var css_min_path = "layouts/partials"
+var css_path = "static/css/*.css"
+var css_min_path = "static/css"
 
 gulp.task('minify-css', () => {
   return gulp.src(css_path)
