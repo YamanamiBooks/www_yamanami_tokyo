@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "name": "Journal of Science and Philosophy - 制作・発売",
+        "image": "/images/recentWorks/jsp_logo.png",
+        "url": "/jsp",
+        "items": [
+            {
+                "name": "English",
+                "url": "/jsp"
+            },
+            {
+                "name": "Japanese",
+                "url": "/jsp/jsp_jp"
+            },
+            {
+                "name": "趣旨[PDF]",
+                "url": "/pdf/shusi.pdf"
+            }
+
+        ]
+    },
+    {
+        "id": 1,
+        "name": "The First Conference on Philosophy of Science - 後援",
+        "image": "/images/recentWorks/CPS1_flyer.jpg",
+        "url": "/news/20180321cpsflyer/",
+        "items": [
+            {
+                "name": "News",
+                "url": "/news/20180321cpsflyer/"
+            },
+            {
+                "name": "Flyer[PDF]",
+                "url": "/pdf/CPS1_flyer.pdf"
+            }
+        ]
+    }
+]

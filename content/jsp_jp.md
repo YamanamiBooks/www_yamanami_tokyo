@@ -1,0 +1,44 @@
++++
+date = "2018-08-15T12:00:00+09:00"
+#menu = "main"
+title = "(JA) Journal of Science and Philosophy"
+type = "about"
+weight = 8
+URL = "/jsp/jsp_jp"
++++
+
+<p style="text-align: right">
+Online edition: ISSN 2434-2327<br>
+Print edition: ISSN 2434-2335
+</p>
+<p style="text-align: center">
+English web site is <a href="/jsp">here</a>.
+</p>
+
+---
+<H3>タイトル</H3>
+Journal of Science and Philosophy<br>
+半年刊
+
+<H3>設立趣旨</H3>
+[[PDF]](/pdf/shusi.pdf)
+
+<H3>投稿規程</H3>
+[[PDF]](/pdf/toukou.pdf)
+
+<H3>査読規程</H3>
+[[PDF]](/pdf/sadoku.pdf)
+
+<H3>編集兼発行</H3>
+〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内<br>
+Association for Science and Philosophy<br>
+Journal of Science and Philosophy 編集委員会<br>
+[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)
+
+<H3>制作・オンライン版配布元・印刷版発売元</H3>
+神奈川県相模原市緑区橋本2-7-9 古川荘201 さがみ進学プラザ内<br>
+やまなみ書房
+
+---
+<H3>刊行</H3>
+1巻 1号 通号1号 (2018年9月号) 2018年9月19日発行予定

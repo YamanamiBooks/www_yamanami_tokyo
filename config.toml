@@ -1,0 +1,103 @@
+title = "やまなみ書房 Yamanami Books"
+baseURL = "/"
+languageCode = "ja-jp"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = "やまなみ書房"
+    description = "Yamanami Books"
+    email = "books@yamanami.tokyo"
+#    phone = "+234 23 9873237"
+#    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2018
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "2006年1月2日"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 5
+
+#[params.disqus]
+#    site = "hugo-initio-site.disqus.com"
+
+#[params.sharethis]
+#    property = "123456789012345678901234"
+#    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+#[[params.social]]
+#	title = "facebook"
+#	url = "https://www.facebook.com/nickname"
+#    icon = "fab fa-facebook-square"
+#    footer = true
+#    sharethis = true
+#    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/yamanamibooks/"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/yamanamibooks/"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = true
+    network = ""
+#[[params.social]]
+#	title = "google+"
+#	url = "https://plus.google.com/+nickname"
+#    icon = "fab fa-google-plus-square"
+#    footer = false
+#    sharethis = true
+#    network = "googleplus"
+#[[params.social]]
+#	title = "linkedin"
+#	url = "https://www.linkedin.com/in/nickname"
+#    icon = "fab fa-linkedin"
+#    footer = false
+#    sharethis = true
+#    network = "linkedin"
+#[[params.social]]
+#	title = "tumblr"
+#	url = "https://nickname.tumblr.com"
+#    icon = "fab fa-tumblr-square"
+#    footer = false
+#    sharethis = false
+#    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/YamanamiBooks/"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = true
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:books@yamanami.tokyo"
+    icon = "fas fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"
