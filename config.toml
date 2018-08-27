@@ -43,7 +43,7 @@ publishDir = "public"
 #    custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-113538925-1"
 
 #[[params.social]]
 #	title = "facebook"
