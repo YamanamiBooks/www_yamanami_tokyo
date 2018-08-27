@@ -24,7 +24,7 @@ gulp.task('minify-html', () => {
     .pipe(gulp.dest('public'));
 });
 
-gulp.task('default', ['minify-html'], function () {
-});
+gulp.task('default', gulp.series( gulp.parallel('minify-html'), function(){
+}));
 
 
