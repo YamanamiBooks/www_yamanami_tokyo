@@ -2,7 +2,7 @@
   "name": "web-build-tool",
   "version": "0.0.1",
   "scripts": {
-    "minify-css": "gulp minify-css"
+    "minify-css": "gulp minify-css",
     "minify-html": "gulp minify-html"
   },
   "dependencies": {
