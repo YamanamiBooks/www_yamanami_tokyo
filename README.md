@@ -1,4 +1,4 @@
-# Yamanami Books Official Website
+# Source of Yamanami Books Official Website
 
 This site is deplyed by Netlify.
 
