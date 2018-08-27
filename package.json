@@ -1,0 +1,11 @@
+{
+  "name": "web-build-tool",
+  "version": "0.0.1",
+  "scripts": {
+    "minify-css": "gulp minify-css"
+    "minify-html": "gulp minify-html"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+  }
+}
