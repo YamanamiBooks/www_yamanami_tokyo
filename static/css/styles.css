@@ -5,6 +5,11 @@ body {
   font-size: 15px;
   font-size: 0.9375rem;
   font-family: "dnp-shuei-gothic-kin-std",sans-serif;
+  font-variant-east-asian: proportional-width;
+  font-variant-ligatures: common-ligatures;
+  -moz-font-feature-settings: "liga", "clig", "pwid";
+  -webkit-font-feature-settings: "liga", "clig", "pwid";
+  font-feature-settings: "liga", "clig", "pwid";
   /*
   font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
   */
