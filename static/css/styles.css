@@ -50,8 +50,8 @@ body {
   -moz-background-clip: padding;
   border-radius: 0;
   background-clip: padding-box;
-  font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
-  font-weight: 300;
+  /* font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;*/
+  font-weight: 400;
   text-transform: uppercase;
 }
 .navbar-collapse .navbar-nav {
@@ -128,7 +128,7 @@ body {
 .nav-side {
   font-size: 24px;
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 400;
   margin-top: -0.37em;
 }
 .nav-side > li > a {
@@ -176,8 +176,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
-  font-weight: 400;
+  /* font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;*/
+  font-weight: 500;
   color: #333333;
 }
 h1 {
@@ -207,14 +207,14 @@ a:hover {
   color: #e93675;
 }
 .lead {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 21px;
   font-size: 1.3125rem;
 }
 .text-msg {
   line-height: 1.7em;
   color: #b3b3b3;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: capitalize;
   margin-top: -0.23em;
 }
@@ -268,7 +268,7 @@ a:hover {
   margin: 5px 0 0;
 }
 #head .tagline b {
-  font-weight: normal;
+  font-weight: 400;
 }
 #head .tagline a {
   color: #5E5E5E;
@@ -300,7 +300,7 @@ img {
   font-size: 0.75rem;
   text-decoration: none;
   text-transform: uppercase;
-  font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+  /*font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;*/
   color: #333;
   -webkit-border-radius: 0px;
   -webkit-background-clip: padding-box;
@@ -333,7 +333,7 @@ img {
   background-color: #e61f65;
 }
 .btn-action {
-  font-weight: bold;
+  font-weight: 500;
   background: transparent!important;
   border: 1px solid #333;
   text-shadow: none;
@@ -349,7 +349,7 @@ img {
   padding: 15px 60px;
   font-size: 12px;
   line-height: 1.33;
-  font-weight: bold;
+  font-weight: 500;
 }
 .panel-cta {
   box-shadow: 0 0 0 1px #e1e1e1, 0 0 0 3px #fff, 0 0 0 4px #e1e1e1;
@@ -377,8 +377,8 @@ img {
   font-size: 0.8125rem;
 }
 .featured h3 {
-  font-weight: bold;
-  font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+  font-weight: 500;
+  /*font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;*/
   font-size: 24px;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -500,7 +500,7 @@ img {
   border: 0 none;
   font-size: 20px;
   font-size: 1.25rem;
-  font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;
+  /*font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;*/
 }
 .pagination > li > a:hover {
   color: #000000;
@@ -528,7 +528,7 @@ img {
   overflow: hidden;
   margin: 0px 0 25px;
   text-align: center;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
   font-size: 36px;
   font-size: 2.25rem;
@@ -567,11 +567,11 @@ img {
 }
 .entry-header .entry-meta {
   text-align: center;
-  font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;
+  /*font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;*/
   font-size: 18px;
   font-size: 1.125rem;
 /*  font-style: italic;*/
-  font-weight: normal;
+  font-weight: 400;
   color: #a5a5a5;
   margin: 0 0 15px 0;
 }
@@ -590,9 +590,9 @@ img {
 }
 .meta-nav,
 .more-link {
-  font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;
+  /*font-family: "Hiragino Mincho ProN",游明朝,"Yu Mincho",YuMincho,HGS明朝E,メイリオ,Meiryo,Georgia,serif;*/
   font-style: italic;
-  font-weight: bold;
+  font-weight: 500;
   color: #666666;
   text-decoration: none;
 }
@@ -622,9 +622,9 @@ img {
   -moz-background-clip: padding;
   border-radius: 3px;
   background-clip: padding-box;
-  font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+  /*font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;*/
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   text-decoration: none;
   opacity: 0.2;
 }
@@ -730,7 +730,7 @@ footer.entry-meta .meta-in {
 }
 #comments .comment-meta .author {
   margin: 0 20px 0 0;
-  font-weight: bold;
+  font-weight: 500;
 }
 #comments .comment-meta .date {
   margin: 0 20px 0 0;
@@ -833,7 +833,7 @@ footer.entry-meta .meta-in {
    display: inline-block;
    padding: 0px 5px 20px 5px;
    cursor: pointer;
-   font-weight: bold;
+   font-weight: 500;
    color: #666666;
    &:hover, &:focus {
       color: #004488;
