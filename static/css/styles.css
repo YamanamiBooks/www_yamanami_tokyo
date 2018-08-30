@@ -4,7 +4,10 @@ html {
 body {
   font-size: 15px;
   font-size: 0.9375rem;
+  font-family: "a-otf-ryumin-pr6n",serif;
+  /*
   font-family:"Hiragino Kaku Gothic ProN","游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
+  */
   color: #666666;
   padding: 0;
 }
