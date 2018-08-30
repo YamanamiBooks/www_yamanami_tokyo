@@ -1,5 +1,5 @@
 title = "やまなみ書房 Yamanami Books"
-baseURL = "https://www.yamanami.tokyo/"
+#baseURL = "https://www.yamanami.tokyo/"
 languageCode = "ja-jp"
 theme = "hugo-initio"
 publishDir = "public"
