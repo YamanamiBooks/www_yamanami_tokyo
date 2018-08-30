@@ -1,4 +1,5 @@
 title = "やまなみ書房 Yamanami Books"
+baseURL = "https://netlify-test.yamanami.tokyo/"
 #baseURL = "https://www.yamanami.tokyo/"
 languageCode = "ja-jp"
 theme = "hugo-initio"
