@@ -44,3 +44,27 @@ Sagami-Shingaku-Plaza, Furukawa-so 201,<br>
 ---
 <H3>Publication</H3>
 Volume 1, Issue 1, Whole Number 1 (Sep. 2018) is scheduled for publication on September 19, 2018.
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "CreativeWorkSeries",
+	"name" : "Journal of Science and Philosophy",
+	"alternateName" : "JSP",
+	"issn" : ["2434-2327", "2434-2335"],
+	"copyrightYear": "2018",
+	"copyrightHolder": {
+		"@type" : "Organization",
+		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+		"email" : "office-asp@yamanami.tokyo",
+		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf"
+	},
+	"publisher" : {
+		"@type" : "Organization",
+		"name" : ["やまなみ書房", "Yamanami Books"]
+	}
+
+}
+</script>
