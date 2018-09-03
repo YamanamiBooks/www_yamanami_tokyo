@@ -42,3 +42,34 @@ Journal of Science and Philosophy 編集委員会<br>
 ---
 <H3>刊行</H3>
 1巻 1号 通号1号 (2018年9月号) 2018年9月19日発行予定
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "CreativeWorkSeries",
+	"name" : "Journal of Science and Philosophy",
+	"alternateName" : "JSP",
+	"issn" : ["2434-2327", "2434-2335"],
+	"copyrightYear": "2018",
+	"copyrightHolder": {
+		"@type" : "Organization",
+		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+		"email" : "office-asp@yamanami.tokyo",
+		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Tokyo, Japan",
+			"postalCode": "102-8554",
+			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+			"addressCountry" : "JP"
+		}
+	},
+	"publisher" : {
+		"@type" : "Organization",
+		"name" : ["やまなみ書房", "Yamanami Books"]
+	}
+
+}
+</script>
