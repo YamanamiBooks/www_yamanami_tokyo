@@ -57,7 +57,14 @@ Journal of Science and Philosophy 編集委員会<br>
 		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
 		"email" : "office-asp@yamanami.tokyo",
 		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf"
+		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Tokyo, Japan",
+			"postalCode": "102-8554",
+			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+			"addressCountry" : "JP"
+		}
 	},
 	"publisher" : {
 		"@type" : "Organization",

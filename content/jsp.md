@@ -59,12 +59,18 @@ Volume 1, Issue 1, Whole Number 1 (Sep. 2018) is scheduled for publication on Se
 		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
 		"email" : "office-asp@yamanami.tokyo",
 		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf"
+		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Tokyo, Japan",
+			"postalCode": "102-8554",
+			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+			"addressCountry" : "JP"
+		}
 	},
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
 	}
-
 }
 </script>
