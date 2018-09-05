@@ -6,7 +6,24 @@
 	<!--<meta name="description" content="">-->
 	<meta name="author"      content="やまなみ書房 Yamanami Books">
 
-	<title>{{ .Title }}</title>
+	<title>{{ .Title }} {{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}</title>
+
+	<meta property="og:title" content="{{ .Title }} {{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}" />
+	<meta property="og:site_name" content="{{ .Site.Title }}" />
+	<meta property="og:url" content="{{ .Permalink }}" />
+	<meta property="og:image" content="{{ .Site.BaseURL }}images/logo.png" />
+	{{ if not .IsPage }}
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="やまなみ書房 Official webサイト"/>
+	{{ else }}
+		<meta property="og:type" content="article" />
+		<meta property="og:description" content="［やまなみ書房 Official webサイト］ {{ .Title }} | {{ .Description }}"/>
+	{{ end }}
+	<meta name="twitter:card"       content="summary" />
+	<meta name="twitter:site"       content="@YamanamiBooks" />
+	<meta name="twitter:creator"    content="@YamanamiBooks" />
+	<meta name="twitter:url" content="{{ .Permalink }}" />
+	<meta name="twitter:domain" content="{{ .Site.BaseURL }}">
 
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
