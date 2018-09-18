@@ -30,7 +30,7 @@ Print edition: ISSN 2434-2335
 * 楽天 (準備中)
 
 
-PDF版はこちらからダウンロード出来ます [[PDF]](/pdf/jsp/1/1/jsp1_1.pdf)
+[[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/1/1/jsp1_1.pdf)
 
 
 #### 創刊号へ向けて
@@ -62,7 +62,7 @@ First, this paper will give an outline of a conventional explanation of Spencer'
 This study was performed to adjust the difference between Einstein's metaphysics and Bohr's epistemology.
 Many physicists and philosophers know their controversy, but most of them do not know what kind of philosophy made them contend with each other.
 For this reason, this paper presents Einstein's metaphysics and Bohr's epistemology, which are based on Kant's philosophy.
-For this purpose, this study deals with EPR, Einstein's letter to Schr¥"odinger, and Bohr's interpretation of quantum mechanics.
+For this purpose, this study deals with EPR, Einstein's letter to Schröodinger, and Bohr's interpretation of quantum mechanics.
 In this process, you find that EPR did not reflect Einstein's metaphysics, and also understand the difference between Bohr's interpretation of quantum mechanics and so-called “Copenhagen Interpretation.”
 As a result, this paper shows that Einstein's metaphysics and Bohr's epistemology should not be opposed to each other, and their philosophy rather promotes development of physics.
 
