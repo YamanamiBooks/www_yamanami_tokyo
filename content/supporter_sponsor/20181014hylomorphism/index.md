@@ -2,7 +2,7 @@
 date = "2018-09-22T12:07:37+09:00"
 title = "ワークショップ「質料形相論の多角的な検討と応用」"
 type = "about"
-URL = "/support/20181014hylomorphism/index.html"
+URL = "/supporter_sponsor/20181014hylomorphism/index.html"
 +++
 
 やまなみ書房はワークショップ「質料形相論の多角的な検討と応用」（日本科学哲学会第51回大会）を協力・後援しています。
