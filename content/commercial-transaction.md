@@ -1,5 +1,5 @@
 +++
-date = "2018-09-22T14:19:58+09:00"
+date = "2018-09-22T15:36:50+09:00"
 title = "特定商取引に関する法律に基づく表示"
 type = "about"
 URL = "/commercial-transaction"
@@ -31,3 +31,4 @@ URL = "/commercial-transaction"
 | 返品送料 | 不良品の場合は弊社が負担いたします。それ以外はお客様のご負担となります。 |
 
 
+&nbsp;
