@@ -7,7 +7,7 @@ URL = "/supporter_sponsor/20181014hylomorphism/index.html"
 
 やまなみ書房はワークショップ「質料形相論の多角的な検討と応用」（日本科学哲学会第51回大会）を協力・後援しています。
 
-<p style="text-align: center;"><a href="/supporter_sponsor/20181014hylomorphism/"><img src="/images/recentWorks/20181014hylomorphism_ol.svg" alt="ワークショップ「質料形相論の多角的な検討と応用」 banner"></a></p>
+<p style="text-align: center;"><img src="/images/recentWorks/20181014hylomorphism_ol.svg" alt="ワークショップ「質料形相論の多角的な検討と応用」 banner"></p>
 
 * 日時：2018年10月14日(日)  14:30–16:45
 * 場所：立命館大学 衣笠キャンパス 学而館 4階 GJ402教室
