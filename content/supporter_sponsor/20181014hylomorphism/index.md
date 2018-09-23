@@ -6,7 +6,10 @@ URL = "/supporter_sponsor/20181014hylomorphism/index.html"
 +++
 
 
-##### やまなみ書房はワークショップ「質料形相論の多角的な検討と応用」（日本科学哲学会第51回大会）を協力・後援しています。
+##### やまなみ書房はワークショップ「質料形相論の多角的な検討と応用」（日本科学哲学会第51回大会）を協力・後援・助成しています。
+
+
+[やまなみ書房 学術コミュニティー活性化事業助成金 (助成番号W00001)](/grants/)
 
 
 <p style="text-align: center;"><img src="/images/recentWorks/20181014hylomorphism_ol.svg" alt="ワークショップ「質料形相論の多角的な検討と応用」 banner" width=50%></p>

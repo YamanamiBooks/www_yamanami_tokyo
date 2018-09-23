@@ -1,6 +1,22 @@
 [
     {
         "id": 0,
+        "name": "やまなみ書房 学術コミュニティー活性化事業 助成事業",
+        "image": "/images/logo.svg",
+        "url": "/grants",
+        "items": [
+            {
+                "name": "概要",
+                "url": "/grants/"
+            },
+            {
+                "name": "ニュースリリース",
+                "url": "/news/20180924grants/"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "ワークショップ「質料形相論の多角的な検討と応用」 - 協力・後援",
         "image": "/images/recentWorks/20181014hylomorphism_ol.svg",
         "url": "/supporter_sponsor/20181014hylomorphism/",
@@ -16,7 +32,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Journal of Science and Philosophy - 制作・発売",
         "image": "/images/recentWorks/ASP_title_ol.svg",
         "url": "/jsp",
@@ -37,7 +53,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "The First Conference on Philosophy of Science - 後援",
         "image": "/images/recentWorks/CPS1_flyer.jpg",
         "url": "/news/20180321cpsflyer/",
