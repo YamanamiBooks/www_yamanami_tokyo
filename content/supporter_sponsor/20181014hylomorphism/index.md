@@ -124,6 +124,6 @@ URL = "/supporter_sponsor/20181014hylomorphism/index.html"
 		"validFrom": "2018-10-12T18:30:00+09:00"
 	},
 	"image": "https://www.yamanami.tokyo/images/misc/20181014hylomorphism_ol.png",
-	"url": "https://www.yamanami.tokyo/support/20181014hylomorphism/"
+	"url": "https://www.yamanami.tokyo/supporter_sponsor/20181014hylomorphism/"
 }
 </script>
