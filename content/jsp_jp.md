@@ -42,7 +42,7 @@ Journal of Science and Philosophy 編集委員会<br>
 ---
 <H3>刊行</H3>
 
-* [1巻 1号 通号1号 (2018年9月号)](/jsp_contents/jsp_1_1/) 2018年9月19日発行 [PDF](/pdf/jsp/1/1/jsp1_1.pdf)
+* [1巻 1号 通号1号 (2018年9月号)](/jsp_contents/jsp_1_1/) 2018年9月19日発行 [[PDF]](/pdf/jsp/1/1/jsp1_1.pdf)
 
 
 <script type="application/ld+json">
