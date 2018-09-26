@@ -5,11 +5,11 @@ type = "about"
 URL = "/commercial-transaction"
 +++
 
-やまなみ書房の商品はAmazon, 三省堂書店 各支店, 楽天ブックスで取り扱っております。以下の表示は、大量のご購入時など、やまなみ書房と別途契約を行って購入される特別なケースに対して適用されます。一般のお客様はそれぞれの販売業者の表示をご覧ください。
+やまなみ書房の商品はAmazon, 三省堂書店 楽天市場店, 三省堂書店 各店で取り扱っております。以下の表示は、大量のご購入時など、やまなみ書房と別途契約を行って購入される特別なケースに対して適用されます。一般のお客様はそれぞれの販売業者の表示をご覧ください。
 
 * [Amazon](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=202008070)
 * [三省堂書店 楽天市場店](https://www.rakuten.co.jp/books-sanseido/info.html)
-* [楽天ブックス](https://books.rakuten.co.jp/info/tokushohou/)
+* [三省堂書店 各店 （各店舗連絡先）](https://www.books-sanseido.co.jp/shop/)
 
 #### 特定商取引に関する法律に基づく表示
 
