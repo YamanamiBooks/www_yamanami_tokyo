@@ -17,7 +17,9 @@ English web site is <a href="/jsp">here</a>.
 
 ---
 <H3>タイトル</H3>
-Journal of Science and Philosophy<br>
+Journal of Science and Philosophy
+
+<H3>刊行頻度</H3>
 半年刊
 
 <H3>設立趣旨</H3>

@@ -18,7 +18,9 @@ Japanese JSP web site is <a href="/jsp/jsp_jp">here</a>.
 
 ---
 <H3>Title</H3>
-Journal of Science and Philosophy<br>
+Journal of Science and Philosophy
+
+<H3>Publication Frequency</H3>
 biannual publication
 
 <H3>Prospectus</H3>
