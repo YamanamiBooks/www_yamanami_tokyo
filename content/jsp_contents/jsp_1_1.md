@@ -18,6 +18,8 @@ Print edition: ISSN 2434-2335
 
 ## 第1巻第1号(2018年9月)
 
+<p style="text-align: center;"><img src="/images/recentWorks/20180928JSP1_1_ol.svg" alt="JSP 1(1) banner" width=50%></p>
+
 * 創刊号へ向けて
 * ハーバート・スペンサーにおける個人主義思想の再検討
 * 物理的 “実在” についての哲学的試論
