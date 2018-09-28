@@ -1,6 +1,26 @@
 [
     {
         "id": 0,
+        "name": "Journal of Science and Philosophy Volume1, Issue 1",
+        "image": "/images/recentWorks/20180928JSP1_1_ol.svg",
+        "url": "/jsp_contents/jsp_1_1/",
+        "items": [
+            {
+                "name": "概要・PDF版",
+                "url": "/jsp_contents/jsp_1_1/"
+            },
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.co.jp/dp/4909624007/"
+            },
+	    {
+		"name": "三省堂書店 楽天市場店",
+		"url": "https://item.rakuten.co.jp/books-sanseido/ebm-55200800100101/"
+	    }
+        ]
+    },
+    {
+        "id": 1,
         "name": "やまなみ書房 学術コミュニティー活性化事業 助成事業",
         "image": "/images/recentWorks/grants.svg",
         "url": "/grants",
@@ -16,7 +36,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "ワークショップ「質料形相論の多角的な検討と応用」 - 協力・後援",
         "image": "/images/recentWorks/20181014hylomorphism_ol.svg",
         "url": "/supporter_sponsor/20181014hylomorphism/",
@@ -32,7 +52,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Journal of Science and Philosophy - 制作・発売",
         "image": "/images/recentWorks/ASP_title_ol.svg",
         "url": "/jsp",
@@ -53,7 +73,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "The First Conference on Philosophy of Science - 後援",
         "image": "/images/recentWorks/CPS1_flyer.jpg",
         "url": "/news/20180321cpsflyer/",
