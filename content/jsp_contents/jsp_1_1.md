@@ -17,6 +17,7 @@ Print edition: ISSN 2434-2335
 学術誌の新しいありかたを実験するための学術誌 Journal of Science and Philosophy (JSP)
 
 ## 第1巻第1号(2018年9月)
+2018年9月19日 発行
 
 <p style="text-align: center;"><img src="/images/recentWorks/20180928JSP1_1_ol.svg" alt="JSP 1(1) banner" width=50%></p>
 
