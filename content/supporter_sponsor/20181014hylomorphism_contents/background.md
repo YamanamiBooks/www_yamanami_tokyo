@@ -26,7 +26,8 @@ URL = "/supporter_sponsor/20181014hylomorphism/background.html"
 提題者 ——— 千葉将希(東京大学)<br>
 </div>
 
-##### 各個人発表の概要はこちら：
+##### 背景・趣旨説明および他の個人発表の概要はこちら：
+* [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
 * [桑原司「アリストテレスの質料形相論の現場」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
 * [横路佳幸「質料形相論的な構成主義：その必要性と多様性」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
 * [千葉将希「生物は質料形相論的対象か」](/supporter_sponsor/20181014hylomorphism/chiba.html)
