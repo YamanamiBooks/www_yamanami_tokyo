@@ -1,6 +1,6 @@
 +++
 date = "2018-09-29T12:07:37+09:00"
-title = "千葉将希「XX」"
+title = "千葉将希「生物は質料形相論的対象か」"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/chiba.html"
 +++
@@ -28,47 +28,21 @@ URL = "/supporter_sponsor/20181014hylomorphism/chiba.html"
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [桑原司「XX」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
-* [横路佳幸「質料形相論的な構成主義」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
+* [桑原司「アリストテレスの質料形相論の現場」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
+* [横路佳幸「質料形相論的な構成主義：その必要性と多様性」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
 
 ----
 ### 個人発表の概要
-#### 千葉将希「XX」
+#### 千葉将希「生物は質料形相論的対象か」
 
-&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&emsp;&emsp;&emsp;質料形相論（hylomorphism）によれば、実体は質料と形相という2つの要素からなる結合体である。また、アリストテレス的見解によると、そうした質料形相論的対象（hylomorphs）のパラダイムケースは、生物にほかならない。しかしながら、はたして生物は本当に質料形相論的対象のパラダイムケースなのだろうか。それどころか、そもそもそれらは質料形相論的対象の一例とすらいえるのだろうか。本発表では、生物を質料形相論的に捉える見方の妥当性を吟味し、これをできるかぎり擁護することを試みる。
 
-
-#### 参考文献
-
-<style type="text/css">
-<!--
-ol.list_squarebrackets {
-  list-style-type: none;
-  margin-left: 3em;
-}
-
-ol.list_squarebrackets li {
-  counter-increment: cnt;
-}
-
-ol.list_squarebrackets li:before {
-  content: "[" counter(cnt) "] ";
-  display:inline-block;
-  margin-left:-3em;
-  width: 3em;
-}
--->
-</style>
-
-<ol class="list_squarebrackets">
-<li id="bib1">Heisenberg, K. (1999), “abc”, <i>example</i> 33, 32–32.</li>
-</ol>
-
+&emsp;&emsp;&emsp;質料形相論を生物に当てはめようとする際、何よりも大きな障害として立ちはだかるのは、やはり質料形相論が多分に目的論的色彩を帯びている点であろう（質料形相論が往々にして人工物の意図的制作との類比で説明されている点、形相因がしばしば目的因と一致するものとされている点など）。しかしながら、ポスト・ダーウィン時代の現代にあって、生物を目的論的に捉える見方に対しては、哲学者や生物学者からいまなお懐疑や批判の声が根強い（e.g., Davies 2009; 佐藤2018）。このことを踏まえ、本発表では、目的論の観点から質料形相論的生物観の妥当性を吟味し、その難点を克服することを試みる。
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [桑原司「XX」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
-* [横路佳幸「質料形相論的な構成主義」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
+* [桑原司「アリストテレスの質料形相論の現場」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
+* [横路佳幸「質料形相論的な構成主義：その必要性と多様性」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
 
 
 <script type="application/ld+json">

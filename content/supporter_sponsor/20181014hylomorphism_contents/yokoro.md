@@ -1,6 +1,6 @@
 +++
 date = "2018-09-29T12:07:37+09:00"
-title = "横路佳幸「質料形相論的な構成主義」"
+title = "横路佳幸「質料形相論的な構成主義：その必要性と多様性」"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/yokoro.html"
 +++
@@ -28,47 +28,20 @@ URL = "/supporter_sponsor/20181014hylomorphism/yokoro.html"
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [桑原司「XX」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
-* [千葉将希「XX」](/supporter_sponsor/20181014hylomorphism/chiba.html)
+* [桑原司「アリストテレスの質料形相論の現場」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
+* [千葉将希「生物は質料形相論的対象か」](/supporter_sponsor/20181014hylomorphism/chiba.html)
 
 ----
 ### 個人発表の概要
-#### 横路佳幸「質料形相論的な構成主義」
+#### 横路佳幸「質料形相論的な構成主義：その必要性と多様性」
 
-&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-#### 参考文献
-
-<style type="text/css">
-<!--
-ol.list_squarebrackets {
-  list-style-type: none;
-  margin-left: 3em;
-}
-
-ol.list_squarebrackets li {
-  counter-increment: cnt;
-}
-
-ol.list_squarebrackets li:before {
-  content: "[" counter(cnt) "] ";
-  display:inline-block;
-  margin-left:-3em;
-  width: 3em;
-}
--->
-</style>
-
-<ol class="list_squarebrackets">
-<li id="bib1">Heisenberg, K. (1999), “abc”, <i>example</i> 33, 32–32.</li>
-</ol>
+&emsp;&emsp;&emsp;本発表で私は、アリストテレスに対する特定の解釈を基に、分析形而上学における構成主義（constitutionalism）を質料形相論の観点から捉え直すことで、さまざまな形式の質料形相論的な構成主義を提示する。構成主義とは、いわゆる一致ケースにおいて、適切な環境<i>D</i>（e.g. 芸術的に批評可能な形状が与えられる状況）に置かれた構成体<i>x</i>（e.g. 特定の大理石の塊）が被構成体<i>y</i>（e.g. ダビデ像）を構成すると述べる理論である。このとき、<i>x</i>は<i>y</i>と数的に同一ではなく、<i>D</i>は<i>y</i>が属する種別概念<i>F</i>（e.g. 彫像）に親和的であるとされる。私の見方では、このような構成主義は、次のような特定の質料形相論的な枠組みを取り込むことで、構成関係の成立および環境と種別概念の結び付きをよりよく理解することができる。それは、「各々の事物のそのようにあるゆえんの第一原因」として形相、特に内在形相の考えを導入する枠組みである。内在形相は、質料を偶然的に規定する個別的な存在者であるという点において、結合体としての個物を必然的に規定するような種から区別される。他方で、特定の内在形相がある質料を規定するという事実は、ある個物が特定の種に属するという事実を基礎づけるものである。そこで、内在形相を環境<i>D</i>に、質料を構成体<i>x</i>に、種を種別概念<i>F</i>に、結合体を被構成体<i>y</i>になぞらえることで、質料形相論的な構成主義を新たに構想し、構成主義が質料形相論またはそれに対応する議論を強く必要とすることを示す。さらに、これまで（内在）形相を多様な仕方で理解してきた近年の議論を参照することで、質料形相論的な構成主義が様々な類型を持ちうることを示す。
 
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [桑原司「XX」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
-* [千葉将希「XX」](/supporter_sponsor/20181014hylomorphism/chiba.html)
+* [桑原司「アリストテレスの質料形相論の現場」](/supporter_sponsor/20181014hylomorphism/kuwahara.html)
+* [千葉将希「生物は質料形相論的対象か」](/supporter_sponsor/20181014hylomorphism/chiba.html)
 
 <script type="application/ld+json">
 {

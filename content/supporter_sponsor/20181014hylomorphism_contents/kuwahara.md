@@ -1,6 +1,6 @@
 +++
 date = "2018-09-29T12:07:37+09:00"
-title = "桑原司「XX」"
+title = "桑原司「アリストテレスの質料形相論の現場」"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/kuwahara.html"
 +++
@@ -28,47 +28,42 @@ URL = "/supporter_sponsor/20181014hylomorphism/kuwahara.html"
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [千葉将希「XX」](/supporter_sponsor/20181014hylomorphism/chiba.html)
-* [横路佳幸「質料形相論的な構成主義」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
+* [千葉将希「生物は質料形相論的対象か」](/supporter_sponsor/20181014hylomorphism/chiba.html)
+* [横路佳幸「質料形相論的な構成主義：その必要性と多様性」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
 
 ----
 ### 個人発表の概要
-#### 桑原司「XX」
-
-&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-#### 参考文献
+#### 桑原司「アリストテレスの質料形相論の現場」
 
 <style type="text/css">
 <!--
-ol.list_squarebrackets {
-  list-style-type: none;
-  margin-left: 3em;
+span.kenten {
+    padding: 0.3em 0;
+    background-repeat: repeat-x;
+    background-size: 1em 0.2em;
+    background-position: top left;
+    background-image: -webkit-gradient(radial,center center,0,center center,1.5,from(#000000),color-stop(0.5,#000000),color-stop(0.9,transparent),to(transparent));
+    background-image: -webkit-radial-gradient(center center, 0.1em 0.1em, #000000, #000000 95%, transparent 95%, transparent);
+    background-image: radial-gradient(0.1em 0.1em at center center, #000000, #000000 95%, transparent);
 }
 
-ol.list_squarebrackets li {
-  counter-increment: cnt;
-}
-
-ol.list_squarebrackets li:before {
-  content: "[" counter(cnt) "] ";
-  display:inline-block;
-  margin-left:-3em;
-  width: 3em;
+@supports ( text-emphasis: dot ) or ( -webkit-text-emphasis: dot ) {
+  span.kenten {
+    background-image: none;
+    -webkit-text-emphasis: sesame;
+    text-emphasis: sesame;
+  }
 }
 -->
 </style>
 
-<ol class="list_squarebrackets">
-<li id="bib1">Heisenberg, K. (1999), “abc”, <i>example</i> 33, 32–32.</li>
-</ol>
+&emsp;&emsp;&emsp;アリストテレスに始まるいわゆる「質料形相論」とは、大雑把に言えば、対象をそれの素材（「質料」）とそれの本質的なあり方（「形相」）から成る「複合体」と見なす立場である。例えば、机は木材（や釘）と机としてのあり方から複合されている、といったように。この具体例が示すように、アリストテレスの質料形相論はしばしば対象の存在論的構造についての枠組みだという印象を与える。確かに質料形相論はある意味ではそのような枠組みとも取れるが、しかし同時に、彼が質料と形相の両概念を導入したのは、対象の「生成」と「あり方」についての<span class="kenten">認識をもたらす限りの</span>、その対象の構成要素としてであった。本発表では、その点を確認し、彼が示唆するいくつかの具体例の検討を通じて、アリストテレスの質料形相論の力点が存在論よりもむしろ認識論にあったことを強調したい。
 
 
 ##### 背景・趣旨説明および他の個人発表の概要はこちら：
 * [背景・趣旨説明](/supporter_sponsor/20181014hylomorphism/background.html)
-* [千葉将希「XX」](/supporter_sponsor/20181014hylomorphism/chiba.html)
-* [横路佳幸「質料形相論的な構成主義」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
+* [千葉将希「生物は質料形相論的対象か」](/supporter_sponsor/20181014hylomorphism/chiba.html)
+* [横路佳幸「質料形相論的な構成主義：その必要性と多様性」](/supporter_sponsor/20181014hylomorphism/yokoro.html)
 
 <script type="application/ld+json">
 {
