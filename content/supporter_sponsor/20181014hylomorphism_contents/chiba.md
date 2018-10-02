@@ -1,5 +1,5 @@
 +++
-date = "2018-09-29T12:07:37+09:00"
+date = "2018-10-02T21:07:30+09:00"
 title = "千葉将希「生物は質料形相論的対象か」"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/chiba.html"

@@ -1,5 +1,5 @@
 +++
-date = "2018-09-29T12:07:37+09:00"
+date = "2018-10-02T21:07:30+09:00"
 title = "横路佳幸「質料形相論的な構成主義：その必要性と多様性」"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/yokoro.html"
