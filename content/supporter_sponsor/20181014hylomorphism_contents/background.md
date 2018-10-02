@@ -1,5 +1,5 @@
 +++
-date = "2018-09-29T12:07:37+09:00"
+date = "2018-10-02T21:07:30+09:00"
 title = "背景・趣旨説明"
 type = "about"
 URL = "/supporter_sponsor/20181014hylomorphism/background.html"
