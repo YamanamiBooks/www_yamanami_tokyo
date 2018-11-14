@@ -42,7 +42,7 @@ Journal of Science and Philosophy 編集委員会<br>
 やまなみ書房
 
 <H3>投稿方法</H3>
-原稿のファイルを添付し、Journal of Science and Philosophy 編集委員会( [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo) )宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。
+原稿のファイルを添付し、メールにてJournal of Science and Philosophy 編集委員会( [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo) )宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。
 
 
 ---
