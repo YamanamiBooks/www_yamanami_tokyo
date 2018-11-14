@@ -41,10 +41,15 @@ Journal of Science and Philosophy 編集委員会<br>
 神奈川県相模原市緑区橋本2-7-9 古川荘201 さがみ進学プラザ内<br>
 やまなみ書房
 
+<H3>投稿方法</H3>
+原稿のファイルを添付し、メールにてJournal of Science and Philosophy 編集委員会( [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo) )宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。
+
+
 ---
 <H3>刊行</H3>
 
 * [1巻 1号 通号1号 (2018年9月号)](/jsp_contents/jsp_1_1/) 2018年9月19日発行 [[PDF]](/pdf/jsp/1/1/jsp1_1.pdf)
+* 1巻 2号 通号2号 (2019年3月号) 2019年3月末 発行予定
 
 
 <script type="application/ld+json">
