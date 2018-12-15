@@ -37,7 +37,7 @@ URL = "/supporter_sponsor/20181014hylomorphism/index.html"
 
 ##### 千葉将希 ［提題者］
 
-東京大学大学院 総合文化研究科 科学史科学哲学研究室。専門は科学哲学。主な論文に、「生物種の実在論は単なる心理的本質主義の産物か」(『哲学・科学史論叢』)。
+東京大学大学院 総合文化研究科 科学史科学哲学研究室。専門は科学哲学。主な論文に、「生物種の実在論は単なる心理的本質主義の産物か」(『哲学・科学史論叢』)。[[researchmap]](https://researchmap.jp/masakichiba/)
 
 <H3 style="text-align: center;">記</H3>
 
