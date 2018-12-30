@@ -36,7 +36,8 @@ biannual publication
 Journal of Science and Philosophy editorial committee, Association for Science and Philosophy<br>
 Sophia University Bldg. 7 Room 313<br>
 7-1 Kioicho, Chiyoda-ku Tokyo, 102-8554, Japan<br>
-[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)
+[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)<br><br>
+[About Journal of Science and Philosophy Editorial Committee](/jsp/jsp_editorialcommittee/)
 
 <H3>Producer and Distributor of Online Edition and Print Edition</H3>
 Yamanami Books<br>

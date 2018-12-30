@@ -86,7 +86,8 @@ As a result, this paper shows that Einstein's metaphysics and Bohr's epistemolog
 〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内<br>
 Association for Science and Philosophy<br>
 Journal of Science and Philosophy 編集委員会<br>
-[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)
+[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)<br><br>
+[Journal of Science and Philosophy 編集委員会について](/jsp/jsp_editorialcommittee/)
 
 ### 制作・オンライン版配布元・印刷版発売元
 神奈川県相模原市緑区橋本2-7-9 古川荘201 さがみ進学プラザ内<br>
