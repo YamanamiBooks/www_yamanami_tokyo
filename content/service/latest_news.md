@@ -4,9 +4,9 @@ title = "最新情報 Latest News"
 weight = 2
 +++
 
-**JSP 1(2) 先行公開**
+**JSP 2(1) 先行公開**
 
-Journal of Science and Philosophy Volume 1, Issue 2 (March, 2019) 掲載論文の一つを先行公開いたします。
+Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) 掲載論文の一つを先行公開いたします。
 
 * 先行公開論文：[アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——](/jsp_contents/jsp_2_1)
 
