@@ -1,17 +1,17 @@
 [
     {
         "id": 0,
-        "name": "JSP Volume1, Issue 2 Preprint Edition",
-        "image": "/images/recentWorks/20180928JSP1_2_ol.svg",
+        "name": "JSP Volume2, Issue 1 Preprint Edition",
+        "image": "/images/recentWorks/JSP2_1_ol.svg",
         "url": "/jsp_contents/jsp_1_2/",
         "items": [
             {
                 "name": "概要・PDF版(先行公開版)",
-                "url": "/jsp_contents/jsp_1_2/"
+                "url": "/jsp_contents/jsp_2_1/"
             },
             {
                 "name": "ニュースリリース",
-                "url": "/news/20190105jsp1_2pre1/"
+                "url": "/news/20190105jsp2_1pre1/"
             }
         ]
     },

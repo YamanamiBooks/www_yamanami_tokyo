@@ -4,7 +4,7 @@ date = "2019-01-05T13:30:00+09:00"
 title = "Journal of Science and Philosophy Volume 1, Issue 2 (March, 2018) Preprint Edition"
 type = "about"
 weight = 9
-URL = "/jsp_contents/jsp_1_2"
+URL = "/jsp_contents/jsp_2_1"
 +++
 
 <p style="text-align: right">
@@ -16,14 +16,14 @@ Print edition: ISSN 2434-2335
 
 学術誌の新しいありかたを実験するための学術誌 Journal of Science and Philosophy (JSP)
 
-## 第1巻第2号(2019年3月) Preprint Edition
+## 第2巻第1号(2019年3月) Preprint Edition
 2018年3月末日 発行予定
 
-<p style="text-align: center;"><img src="/images/recentWorks/20180928JSP1_2_ol.svg" alt="JSP 1(2) banner" width=50%></p>
+<p style="text-align: center;"><img src="/images/recentWorks/JSP2_1_ol.svg" alt="JSP 1(2) banner" width=50%></p>
 
-第1巻第2号の一部を出版に先駆けて先行公開いたします。ここで配布する本文は出版されるものと基本的に変わりませんが、ページ番号等は変更される可能性があります。
+第2巻第1号の一部を出版に先駆けて先行公開いたします。ここで配布する本文は出版されるものと基本的に変わりませんが、ページ番号等は変更される可能性があります。
 
-##### 第1巻第2号 Preprint Edition 論文・記事一覧
+##### 第2巻第1号 Preprint Edition 論文・記事一覧
 
 * アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——
 
@@ -32,7 +32,7 @@ Print edition: ISSN 2434-2335
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-7501-5384
 
-[[論文PDF]](/pdf/jsp/1/2/1_2_01yokoro.pdf)
+[[論文PDF]](/pdf/jsp/2/1/2_1_01yokoro.pdf)
 
 ##### ［著者ＰＲ］
 
@@ -52,7 +52,7 @@ http://digital-archives.sophia.ac.jp/repository/view/repository/20171114017 <br>
 リンク先最下部の「ダウンロード」をクリックしてください。
 
 
-[[論文PDF]](/pdf/jsp/1/2/1_2_01yokoro.pdf)
+[[論文PDF]](/pdf/jsp/2/1/2_1_01yokoro.pdf)
 
 
 
@@ -138,7 +138,7 @@ Journal of Science and Philosophy 編集委員会<br>
 	},
 	"inLanguage": "ja-JP",
 	"isbn": "",
-	"name": "Journal of Science and Philosophy Volume 1, Issue 2 (March, 2019) Preprint Edition",
+	"name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition",
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
