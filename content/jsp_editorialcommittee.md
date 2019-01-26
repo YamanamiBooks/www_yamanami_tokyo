@@ -27,17 +27,19 @@ Journal of Science and Philosophy 編集委員会<br>
 [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)
 
 
-### 編集委員会委員長
-
-杉尾一 （上智大学）
-
 ### 編集委員
 
+杉尾 一 （上智大学） *
+久野 真隆 （慶應義塾大学）
+脇本 佑紀 （ニュートンワークス株式会社）
+横路 佳幸 （慶應義塾大学）
+高木 翼 （法政大学）
+飯澤 正登実 （やまなみ書房）†
+
+*委員長
+†組版・受付担当
+
 (under construction)
-
-
-飯澤 正登実 （やまなみ書房）：組版・受付担当
-
 ### 特記事項
 
 本編集委員会は委員長の責任のもと運営されているが、編集委員会への所属の有無に関わらずJournal of Science and Philosophy関係者は、各自の見識と判断を以て思う存分活発な活動を行うことを期待している。
