@@ -1,6 +1,22 @@
 [
     {
         "id": 0,
+        "name": "論理・タブローブックス",
+        "image": "/images/recentWorks/tableauBanner_ol.svg",
+        "url": "/tableau/",
+        "items": [
+            {
+                "name": "概要",
+                "url": "/tableau/"
+            },
+            {
+                "name": "ニュースリリース",
+                "url": "/news/20190129tableau/"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "JSP Volume2, Issue 1 Preprint Edition",
         "image": "/images/recentWorks/JSP2_1_ol.svg",
         "url": "/jsp_contents/jsp_2_1/",
@@ -16,7 +32,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Journal of Science and Philosophy Volume1, Issue 1",
         "image": "/images/recentWorks/20180928JSP1_1_ol.svg",
         "url": "/jsp_contents/jsp_1_1/",
@@ -36,7 +52,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "やまなみ書房 学術コミュニティー活性化事業 助成事業",
         "image": "/images/recentWorks/grants.svg",
         "url": "/grants",
@@ -52,7 +68,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "ワークショップ「質料形相論の多角的な検討と応用」 - 協力・後援",
         "image": "/images/recentWorks/20181014hylomorphism_ol.svg",
         "url": "/supporter_sponsor/20181014hylomorphism/",
@@ -72,7 +88,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Journal of Science and Philosophy - 制作・発売",
         "image": "/images/recentWorks/ASP_title_ol.svg",
         "url": "/jsp",
@@ -93,7 +109,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "The First Conference on Philosophy of Science - 後援",
         "image": "/images/recentWorks/CPS1_flyer.jpg",
         "url": "/news/20180321cpsflyer/",

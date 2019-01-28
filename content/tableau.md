@@ -1,18 +1,25 @@
 +++
-date = "2019-01-29T03:00:00+09:00"
-title = "最新情報 Latest News"
-weight = 2
+date = "2019-01-29T00:20:30+09:00"
+#menu = "main"
+title = "論理・タブローブックス"
+type = "about"
+weight = 11
+URL = "/tableau"
 +++
 
-**「論理・タブローブックス」発刊プロジェクトを立ち上げました**
+<div style="text-align: right;">
+&copy; 2019 高木翼
+</div>
 
-「論理・タブローブックス」発刊プロジェクトが立ち上がりました。本プロジェクトによる成果はやまなみ書房から出版予定です。web上ではCreative Commons (CC BY 4.0)で公開いたします。著者は若手ロジシャンの高木翼氏です。ご期待ください。
+<p style="text-align: center;"><img src="/images/recentWorks/tableauBanner_ol.svg" alt="論理・タブローブックス banner" width=50%></p>
 
-詳しくは[こちら](/tableau/)をご覧ください。
+<H3 style="text-align: center;">
+論理・タブローブックス
+</H3>
+<H4 style="text-align: center;">
+高木 翼 著
+</H4>
 
-<!--more-->
-
----
 
 ### 発刊の辞
 
@@ -33,16 +40,46 @@ weight = 2
 <p style= "margin: 0 0 30px 0;">「論理・タブローブックス」を読破することで、あなたも自由自在に論理的議論ができるようになってみませんか？</p>
 
 
-### 刊行予定(2019年1月29日現在)
+### 刊行予定
 
 1. 古典命題論理のタブロー
 1. 古典述語論理のタブロー
 1. 直観主義論理のタブロー
 1. 様相命題論理のタブロー
 
-順次追加します。最新情報は[こちら](/tableau/)をご覧ください。
+順次追加します。
 
 <div style="padding: 10px; margin-bottom: 10px; border: 5px double #333333; border-radius: 50px; background-color: #ffff99;">
 <p style="text-align: center; margin: 30px;"><img src="/images/tableau/tableauTopPR.svg" alt="三段論法のタブロー" width=50%></p>
 <p style="text-align: center;">三段論法のタブロー</p>
 </div>
+
+### ライセンスについて
+この書籍は<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下で提供する予定です。<br>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Book",
+	"author": [
+		{
+			"@type": "Person",
+			"name": "高木 翼"
+		}
+	],
+	"copyrightYear": "2019",
+	"copyrightHolder": {
+		"@type" : "Person",
+		"name" : "高木 翼"
+	},
+	"inLanguage": "ja-JP",
+	"isbn": "",
+	"name": "論理・タブローブックス",
+	"publisher" : {
+		"@type" : "Organization",
+		"name" : ["やまなみ書房", "Yamanami Books"]
+	}
+}
+</script>
