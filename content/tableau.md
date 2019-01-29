@@ -50,8 +50,8 @@ URL = "/tableau"
 順次追加します。
 
 <div style="padding: 10px; margin-bottom: 10px; border: 5px double #333333; border-radius: 50px; background-color: #ffff99;">
-<p style="text-align: center; margin: 30px;"><img src="/images/tableau/tableauTopPR.svg" alt="三段論法のタブロー" width=50%></p>
-<p style="text-align: center;">三段論法のタブロー</p>
+<p style="text-align: center; margin: 30px;"><img src="/images/tableau/tableauTopPR.svg" alt="古典命題論理における三段論法のタブロー" width=50%></p>
+<p style="text-align: center;">古典命題論理における三段論法のタブロー</p>
 </div>
 
 ### ライセンスについて
