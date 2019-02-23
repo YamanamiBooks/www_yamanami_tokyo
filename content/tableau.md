@@ -54,6 +54,10 @@ URL = "/tableau"
 <p style="text-align: center;">仮言的三段論法の妥当性を証明するタブロー</p>
 </div>
 
+### 著者プロフィール
+1997年 東京都に生まれる。現在 法政大学文学部哲学科在学中。日本物理学会 第11回Jr.セッション 審査員特別賞受賞。
+
+
 ### ライセンスについて
 
 この書籍は<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下で提供する予定です。<br>
