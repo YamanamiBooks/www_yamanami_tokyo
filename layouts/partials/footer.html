@@ -22,7 +22,7 @@
 					<p class="follow-me-icons">
                         {{ range .Site.Params.social }}
                             {{ if .footer }}
-                                <a href="{{ .url }}" target="_blank"><i class="{{ .icon }} fa-lg"></i></a>&nbsp
+			    <a href="{{ .url }}" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ .viewbox }}" area-hidden=”true” height="1.4em"><path fill="currentColor" d="{{ .icon }}"></path></svg></a>&nbsp
                             {{ end }}
                         {{ end }}
 					</p>
