@@ -229,10 +229,17 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background: #99ccff url(../images/bg_head.jpg) top center;
+  background: #99ccff;
   background-size: cover;
   color: #7C7C7C;
   padding: 30px 0 35px 0;
+}
+
+#head .no-webp {
+  background: #99ccff url(../images/bg_head.jpg) top center;
+}
+#head .webp {
+  background: #99ccff url(../images/bg_head.webp) top center;
 }
 #head img.img-circle {
   display: block;
