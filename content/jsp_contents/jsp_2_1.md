@@ -1,7 +1,7 @@
 +++
 date = "2019-01-05T13:30:00+09:00"
 #menu = "main"
-title = "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2018) Preprint Edition"
+title = "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition"
 type = "about"
 weight = 9
 URL = "/jsp_contents/jsp_2_1"
@@ -17,7 +17,7 @@ Print edition: ISSN 2434-2335
 学術誌の新しいありかたを実験するための学術誌 Journal of Science and Philosophy (JSP)
 
 ## 第2巻第1号(2019年3月) Preprint Edition
-2018年3月末日 発行予定
+2019年3月末日 発行予定
 
 <p style="text-align: center;"><img src="/images/recentWorks/JSP2_1_ol.svg" alt="JSP 1(2) banner" width=50%></p>
 
