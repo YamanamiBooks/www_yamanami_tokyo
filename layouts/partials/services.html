@@ -2,9 +2,9 @@
 
     <h2 class="section-title"><span>Services</span></h2>
 
-    <div class="">
+    <div class="row">
         {{ range where .Data.Pages "Section" "service" }}
-	<div class="col-sm-6 col-md-3">
+	<div class="col-sm-6 col-lg-3">
                 <h3 class="text-center">{{ .Title }}</h3>
                 <p>{{ .Summary }}</p>
                 <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">続きを読む</a></p>
