@@ -260,7 +260,7 @@ a:hover {
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #7C7C7C;
+  color: #000000;
   margin: 5px 0 0;
 }
 #head .tagline b {
@@ -420,8 +420,9 @@ img {
 @media only screen and (max-width: 768px) {
   .thumbnail .img {
     width: calc(100% + 30px);
-    height: 280px;
+    height: 180px;
     margin-left: -15px;
+/*    padding: 55% 0 0;*/
   }
 }
 .thumbnail .title {
@@ -449,7 +450,7 @@ img {
 }
 @media only screen and (max-width: 768px) {
   .thumbnail .cover {
-    height: 280px;
+    height: 180px;
   }
 }
 .thumbnail .cover .more {
@@ -474,6 +475,7 @@ img {
 }
 .thumbnail img {
   width: 100%;
+  height: 180px;
   position: absolute;
   top: 0;
   left: 0;

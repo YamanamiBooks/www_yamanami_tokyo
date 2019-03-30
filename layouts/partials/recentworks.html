@@ -1,10 +1,12 @@
 <div class="row section recentworks topspace">
 
+    <div class="col-12">
     <h2 class="section-title"><span>Recent Works</span></h2>
+    </div>
 
-    <div class="row thumbnails recentworks">
         {{ range $index, $area := .Site.Data.recentworks }}
-            <div class="col-md-6 col-lg-4">
+	<div class="col-10 offset-1 col-md-6 offset-md-0 col-lg-4">
+		<div class="thumbnails">
                 <a class="thumbnail" href="{{ .url }}">
                     <span class="img">
                         <img src="{{ .image }}" alt="">
@@ -19,8 +21,8 @@
                         {{ if gt $len $i }} | {{ end }}
                     {{ end }}
                 </span>
+		</div>
             </div>
         {{ end }}
-    </div>
 
 </div> <!-- /section -->
