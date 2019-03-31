@@ -1,5 +1,5 @@
 +++
-date = "2019-01-05T13:30:00+09:00"
+date = "2019-03-31T9:00:00+09:00"
 #menu = "main"
 title = "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition"
 type = "about"
@@ -16,17 +16,42 @@ Print edition: ISSN 2434-2335
 
 学術誌の新しいありかたを実験するための学術誌 Journal of Science and Philosophy (JSP)
 
-## 第2巻第1号(2019年3月) Preprint Edition
-2019年3月末日 発行予定
+## 第2巻第1号(2019年3月)
+2019年3月31日 発行
 
-<p style="text-align: center;"><img src="/images/recentWorks/JSP2_1_ol.svg" alt="JSP 1(2) banner" width=50%></p>
+<p style="text-align: center;"><img src="/images/recentWorks/JSP2_1_ol.svg" alt="JSP 2(1) banner" width=50%></p>
 
-第2巻第1号の一部を出版に先駆けて先行公開いたします。ここで配布する本文は出版されるものと基本的に変わりませんが、ページ番号等は変更される可能性があります。
+* 創刊号から約半年を経て
+* K4タブローによる妥当性判定と濾過法
+* アリストテ㆑スにおける言語行為 としての述定 ——桑原への簡潔なコメント——
+* 知識の獲得と観察の理論負荷性
 
-##### 第2巻第1号 Preprint Edition 論文・記事一覧
+書籍版は4月上旬よりこちらでお買い求め戴けます（準備中） （書籍版 ISBN 978-4-909624017）
 
-* アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——
+* Amazon
+* 三省堂書店 オンラインマーケット 楽天市場店
+* [三省堂書店 各店 （店舗一覧）](https://www.books-sanseido.co.jp/shop/)
 
+[[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/2/1/jsp2_1.pdf)
+
+
+#### 創刊号から約半年を経て
+杉尾一 （上智大学 文学部 哲学科 / JSP 編集委員）<br/>
+![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-6881-900X
+
+昨年、やまなみ書房から Journal of Science and Philosophy (JSP) の第1巻 第1号 (創刊号) を刊行した。幸いなことに多方面から反響があり、今回の第2 巻第1号では、投稿者の中から若き俊英3名 (高木翼氏 (論理学) 、横路佳幸 氏 (分析哲学) 、山口真子氏 (科学哲学) ) の論文を厳選し、掲載させて頂くこ ととなった。本稿では、各氏の論文について簡単に紹介したい。
+
+[[個別PDF]](/pdf/jsp/2/1/2_1_01sugio.pdf)
+
+#### K4タブローによる妥当性判定と濾過法
+高木翼 （法政大学 文学部 哲学科）<br/>
+![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-9890-1015
+
+※本文は日本語です
+
+One of the diÿculties of modal logic K4 is that the tableau may be infinitely long and the validity of a formula cannot be determined. However, an infinite counter-model of the formula can be constructed by finding a pattern of the infinitely long tableau. In order to transform the infinite counter-model into a finite counter-model, we should suppose that reflexibility holds in the part of the same infinite prefixed formula except for their prefixes. In this paper, I show that this transformation is the special case of filtration method.
+
+[[個別PDF]](/pdf/jsp/2/1/2_1_02takagi.pdf)
 
 #### アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
@@ -52,8 +77,17 @@ http://digital-archives.sophia.ac.jp/repository/view/repository/20171114017 <br>
 リンク先最下部の「ダウンロード」をクリックしてください。
 
 
-[[論文PDF]](/pdf/jsp/2/1/2_1_01yokoro.pdf)
+[[論文PDF]](/pdf/jsp/2/1/2_1_03yokoro.pdf)
 
+#### 知識の獲得と観察の理論負荷性
+山口 真子 （上智大学 文学部 哲学科）<br/>
+![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-6504-6753
+
+この論文では、アメリカの科学哲学者ノーウッド・ハンソンが主張した「観察の理論負荷性」を取り挙げていく。これは、「何を現象として観察できるかということは、前提となる理論が決定する」ということを示している。この主張は、1958年に出版された『科学的発見のパターン』でなされた。この本が出版された20世紀半ば、科学哲学の分野では、論理実証主義 に影響を受けた研究やポパーの反証主義 に基づいた研究が主流であった。これは、科学哲学の研究が、科学史とはあまり関わらない形で理論中心に展開されてきたことを示している。しかし、ハンソンの登場によって、科学哲学の研究は変わることになる。それは、科学哲学の研究において、科学史を考慮する研究へと変わったことだ。ここから、ハンソンが示したような科学哲学の立場は「新科学哲学」と呼ばれている。
+
+本論文では、ハンソンが「観察の理論負荷性」をどのように科学の分野で主張したのかを明らかにしていく。そのうえで、「観察の理論負荷性」が科学史上でどのように展開されてきたのかを検討していきたい。一方で、科学史というのは我々が理論負荷を乗り越えてきた歴史といえるだろう。そこで、科学史上で乗り越えてきた事例が、観察の理論負荷性においていかに考察されうるかについて検討していきたい。これは、我々が認識したものを体系化して、知識として獲得するプロセスの基礎構造を明らかにすることにつながっていく。
+
+[[個別PDF]](/pdf/jsp/2/1/2_1_04yamaguchi.pdf)
 
 
 ### 編集兼発行
@@ -118,10 +152,22 @@ Journal of Science and Philosophy 編集委員会<br>
 		},
 		{
 			"@type": "Person",
+			"name": "高木 翼"
+		},
+		{
+			"@type": "Person",
 			"name": "横路 佳幸"
+		},
+		{
+			"@type": "Person",
+			"name": "山口 真子"
+		},
+		{
+			"@type": "Person",
+			"name": "杉尾 一"
 		}
 	],
-	"copyrightYear": "2018",
+	"copyrightYear": "2019",
 	"copyrightHolder": {
 		"@type" : "Organization",
 		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
@@ -137,7 +183,7 @@ Journal of Science and Philosophy 編集委員会<br>
 		}
 	},
 	"inLanguage": "ja-JP",
-	"isbn": "",
+	"isbn": "9784909624017",
 	"name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition",
 	"publisher" : {
 		"@type" : "Organization",
