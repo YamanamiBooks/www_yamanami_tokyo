@@ -22,7 +22,7 @@ Print edition: ISSN 2434-2335
 <p style="text-align: center;"><img src="/images/recentWorks/JSP2_1_ol.svg" alt="JSP 2(1) banner" width=50%></p>
 
 * 創刊号から約半年を経て
-* K4タブローによる妥当性判定と濾過法
+* K4タブローによる妥当性判定と濾過法
 * アリストテ㆑スにおける言語行為 としての述定 ——桑原への簡潔なコメント——
 * 知識の獲得と観察の理論負荷性
 
@@ -39,11 +39,11 @@ Print edition: ISSN 2434-2335
 杉尾一 （上智大学 文学部 哲学科 / JSP 編集委員）<br/>
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-6881-900X
 
-昨年、やまなみ書房から Journal of Science and Philosophy (JSP) の第1巻 第1号 (創刊号) を刊行した。幸いなことに多方面から反響があり、今回の第2 巻第1号では、投稿者の中から若き俊英3名 (高木翼氏 (論理学) 、横路佳幸 氏 (分析哲学) 、山口真子氏 (科学哲学) ) の論文を厳選し、掲載させて頂くこ ととなった。本稿では、各氏の論文について簡単に紹介したい。
+昨年、やまなみ書房から Journal of Science and Philosophy (JSP) の第1巻 第1号 (創刊号) を刊行した。幸いなことに多方面から反響があり、今回の第2 巻第1号では、投稿者の中から若き俊英3名 (高木翼氏 (論理学) 、横路佳幸氏 (分析哲学) 、山口真子氏 (科学哲学) ) の論文を厳選し、掲載させて頂くこ ととなった。本稿では、各氏の論文について簡単に紹介したい。
 
 [[個別PDF]](/pdf/jsp/2/1/2_1_01sugio.pdf)
 
-#### K4タブローによる妥当性判定と濾過法
+#### K4タブローによる妥当性判定と濾過法
 高木翼 （法政大学 文学部 哲学科）<br/>
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-9890-1015
 
