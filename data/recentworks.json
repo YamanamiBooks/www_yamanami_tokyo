@@ -1,6 +1,26 @@
-[
+[    
     {
         "id": 0,
+        "name": "Journal of Science and Philosophy Volume1, Issue 1",
+        "image": "/images/recentWorks/JSP2_1_ol.svg",
+        "url": "/jsp_contents/jsp_2_1/",
+        "items": [
+            {
+                "name": "概要・PDF版",
+                "url": "/jsp_contents/jsp_2_1/"
+            },
+            {
+                "name": "ニュースリリース",
+                "url": "/news/20190331jsp2_1/"
+            },
+            {
+                "name": "書籍版（準備中）",
+                "url": "/jsp_contents/jsp_2_1/"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "論理・タブローブックス",
         "image": "/images/recentWorks/tableauBanner_ol.svg",
         "url": "/tableau/",
@@ -12,22 +32,6 @@
             {
                 "name": "ニュースリリース",
                 "url": "/news/20190129tableau/"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "JSP Volume2, Issue 1 Preprint Edition",
-        "image": "/images/recentWorks/JSP2_1_ol.svg",
-        "url": "/jsp_contents/jsp_2_1/",
-        "items": [
-            {
-                "name": "概要・PDF版(先行公開版)",
-                "url": "/jsp_contents/jsp_2_1/"
-            },
-            {
-                "name": "ニュースリリース",
-                "url": "/news/20190105jsp2_1pre1/"
             }
         ]
     },

@@ -1,7 +1,7 @@
 +++
 date = "2019-03-31T9:00:00+09:00"
 #menu = "main"
-title = "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition"
+title = "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019)"
 type = "about"
 weight = 9
 URL = "/jsp_contents/jsp_2_1"
