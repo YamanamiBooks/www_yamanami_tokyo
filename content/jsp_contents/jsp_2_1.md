@@ -49,7 +49,7 @@ Print edition: ISSN 2434-2335
 
 ※本文は日本語です
 
-One of the diÿculties of modal logic K4 is that the tableau may be infinitely long and the validity of a formula cannot be determined. However, an infinite counter-model of the formula can be constructed by finding a pattern of the infinitely long tableau. In order to transform the infinite counter-model into a finite counter-model, we should suppose that reflexibility holds in the part of the same infinite prefixed formula except for their prefixes. In this paper, I show that this transformation is the special case of filtration method.
+One of the difficulties of modal logic K4 is that the tableau may be infinitely long and the validity of a formula cannot be determined. However, an infinite counter-model of the formula can be constructed by finding a pattern of the infinitely long tableau. In order to transform the infinite counter-model into a finite counter-model, we should suppose that reflexibility holds in the part of the same infinite prefixed formula except for their prefixes. In this paper, I show that this transformation is the special case of filtration method.
 
 [[個別PDF]](/pdf/jsp/2/1/2_1_02takagi.pdf)
 
