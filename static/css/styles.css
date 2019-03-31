@@ -197,6 +197,8 @@ h5 {
 }
 a {
   color: #bd1550;
+  word-wrap : break-word;
+  overflow-wrap : break-word;
 }
 a:hover {
   color: #e93675;
