@@ -57,7 +57,7 @@ One of the difficulties of modal logic K4 is that the tableau may be infinitely 
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-7501-5384
 
-[[論文PDF]](/pdf/jsp/2/1/2_1_01yokoro.pdf)
+[[論文PDF]](/pdf/jsp/2/1/2_1_03yokoro.pdf)
 
 ##### ［著者ＰＲ］
 
