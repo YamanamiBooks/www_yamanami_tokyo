@@ -29,4 +29,8 @@ HUGO_VERSION = "0.54.0"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-
+[[redirects]]
+from = "/pdf/jsp/2/1/2_1_01yokoro.pdf"
+to = "/pdf/jsp/2/1/2_1_03yokoro.pdf"
+status = 301
+force = true
