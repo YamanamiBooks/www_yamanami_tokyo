@@ -49,6 +49,7 @@ Sagami-Shingaku-Plaza, Furukawa-so 201,<br>
 
 * [Volume 1, Issue 1, Whole Number 1 (Sep. 2018)](/jsp_contents/jsp_1_1/) publication on September 19, 2018. [[PDF]](/pdf/jsp/1/1/jsp1_1.pdf)
 * [Volume 2, Issue 1, Whole Number 2 (Mar. 2019)](/jsp_contents/jsp_2_1/) publication on March 31, 2019. [[PDF]](/pdf/jsp/2/1/jsp2_1.pdf)
+* Volume 3, Issue 1, Whole Number 3 (Sep. 2019) (will be published on the end of September, 2019)
 
 
 <script type="application/ld+json">
