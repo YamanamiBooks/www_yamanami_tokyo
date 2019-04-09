@@ -55,11 +55,9 @@ URL = "/tableau"
 </div>
 
 ### 著者プロフィール
-高木 翼（たかぎ つばさ）
-
-1997年 東京都に生まれる。現在 法政大学文学部哲学科在学中。量子論理に関する発表で、[日本物理学会第11回Jr.セッション審査員特別賞](https://gakkai-web.net/butsuri-jrsession/2015/shinsa.html)を受賞。論文 [「K4タブローによる妥当性判定と濾過法」（Journal of Science and Philosophy, Association for Science and Philosophy 編, 2019年）](https://netlify-test.yamanami.tokyo/jsp_contents/jsp_2_1/)。
-
-![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-9890-1015
+<p style= "margin: 0 0 10px 0;">高木 翼（たかぎ つばさ）</p>
+<p style= "margin: 0 0 10px 0;">1997年 東京都に生まれる。現在 法政大学文学部哲学科在学中。量子論理に関する発表で、[日本物理学会第11回Jr.セッション審査員特別賞](https://gakkai-web.net/butsuri-jrsession/2015/shinsa.html)を受賞。論文 [「K4タブローによる妥当性判定と濾過法」（Journal of Science and Philosophy, Association for Science and Philosophy 編, 2019年）](https://netlify-test.yamanami.tokyo/jsp_contents/jsp_2_1/)。</p>
+<p style= "margin: 0 0 10px 0;">![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-9890-1015</p>
 
 
 ### ライセンスについて
