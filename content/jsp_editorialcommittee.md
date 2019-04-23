@@ -38,7 +38,6 @@ Journal of Science and Philosophy 編集委員会<br>
 <sup>*</sup> 委員長<br>
 <sup>†</sup> 組版・受付担当
 
-(under construction)
 ### 特記事項
 
 本編集委員会は委員長の責任のもと運営されているが、編集委員会への所属の有無に関わらずJournal of Science and Philosophy関係者は、各自の見識と判断を以て思う存分活発な活動を行うことを期待している。
