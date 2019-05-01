@@ -1,7 +1,7 @@
 [build]
 publish = "public"
 #command = "hugo" #サイト上で個別に指定
-RUBY_VERSION = 2.6.2 #build時に2.3.6をinstallし始める問題に対応
+RUBY_VERSION = "2.6.2" #build時に2.3.6をinstallし始める問題に対応
 
 [context.production.environment]
 HUGO_VERSION = "0.55.3"
