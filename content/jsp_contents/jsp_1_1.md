@@ -31,8 +31,9 @@ Print edition: ISSN 2434-2335
 * [Amazon](https://www.amazon.co.jp/dp/4909624007/)
 * [楽天ブックス](https://books.rakuten.co.jp/rb/15712675/)
 * [三省堂書店 オンラインマーケット 楽天市場店](https://item.rakuten.co.jp/books-sanseido/ebm-55200800100101/)
-* [三省堂書店 各店 （店舗一覧）](https://www.books-sanseido.co.jp/shop/)
+* [三省堂書店 各店 （店舗一覧）※注文後の生産となります。端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
+発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
 [[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/1/1/jsp1_1.pdf)
 
