@@ -30,7 +30,7 @@ Print edition: ISSN 2434-2335
 
 * [Amazon](https://www.amazon.co.jp/dp/4909624015/)
 * [楽天ブックス](https://books.rakuten.co.jp/rb/15899126/)
-* [三省堂書店 各店 （店舗一覧）※注文後の生産となります。端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
+* [三省堂書店 各店 （店舗一覧）※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
