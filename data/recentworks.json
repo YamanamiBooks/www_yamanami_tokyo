@@ -14,8 +14,12 @@
                 "url": "https://www.amazon.co.jp/dp/4909624015/"
             },
             {
-                "name": "三省堂書店 楽天市場店（準備中）",
-                "url": "/jsp_contents/jsp_2_1/"
+                "name": "楽天ブックス",
+                "url": "https://books.rakuten.co.jp/rb/15899126/"
+            },
+            {
+                "name": "三省堂書店 各店（店舗一覧）",
+                "url": "https://www.books-sanseido.co.jp/shop/"
             }
         ]
     },

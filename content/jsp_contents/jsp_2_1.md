@@ -29,10 +29,10 @@ Print edition: ISSN 2434-2335
 製本版はこちらでお買い求め戴けます（書籍版 ISBN 978-4-909624017）
 
 * [Amazon](https://www.amazon.co.jp/dp/4909624015/)
-* 三省堂書店 オンラインマーケット 楽天市場店（準備中）
-* [三省堂書店 各店 （店舗一覧）](https://www.books-sanseido.co.jp/shop/)（準備中）
+* [楽天ブックス](https://books.rakuten.co.jp/rb/15899126/)
+* [三省堂書店 各店 （店舗一覧）](https://www.books-sanseido.co.jp/shop/)
 
-発売はAmazon・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
+発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
 [[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/2/1/jsp2_1.pdf)
 
