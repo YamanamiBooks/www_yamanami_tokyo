@@ -54,9 +54,13 @@
                 "url": "https://www.amazon.co.jp/dp/4909624007/"
             },
 	    {
-		"name": "三省堂書店 楽天市場店",
-		"url": "https://item.rakuten.co.jp/books-sanseido/ebm-55200800100101/"
-	    }
+		"name": "楽天ブックス",
+		"url": "https://books.rakuten.co.jp/rb/15712675/"
+	    },
+            {
+                "name": "三省堂書店 各店（店舗一覧）",
+                "url": "https://www.books-sanseido.co.jp/shop/"
+            }
         ]
     },
     {
