@@ -3,9 +3,9 @@ date = "2019-05-19T19:27:00+09:00"
 title = "『形式論理探求 第1巻 古典論理のタブロー』発売"
 +++
 
-[「論理・タブローブックス」プロジェクト](/tableau/)の第1弾として、『形式論理探求 第1巻 古典論理のタブロー』の発売を開始いたしました。
+[「論理・タブローブックス」プロジェクト](/tableau/)の第1弾として、『形式論理探求 第1巻 古典論理のタブロー』の発売を2019年5月31日に開始いたします。
 
-<p style="text-align: center;"><a href="/tableau_contents/tableau01classical_logic/"><img src="/images/tableau/tableau01_cover_web01_ol_1.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover"></a></p>
+<p style="text-align: center;"><a href="/tableau_contents/tableau01classical_logic/"><img src="/images/tableau/tableau01_cover_web01_ol_1.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover" width=50%></a></p>
 
 ### 内容紹介
 
