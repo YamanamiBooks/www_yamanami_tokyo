@@ -7,11 +7,14 @@ weight = 11
 URL = "/tableau_contents/tableau01classical_logic"
 +++
 
+
+[「論理・タブローブックス」プロジェクト](/tableau/) 第1弾
+
 <div style="text-align: right;">
 &copy; 2019 高木翼
 </div>
 
-<p style="text-align: center;"><img src="/images/recentWorks/tableauBanner_ol.svg" alt="論理・タブローブックス banner" width=50%></p>
+<p style="text-align: center;"><img src="/images/recentWorks/tableau01_cover_web01_ol_01.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover" width=50%></p>
 
 <H3 style="text-align: center;">
 形式論理探求 第1巻 古典論理のタブロー
@@ -20,7 +23,6 @@ URL = "/tableau_contents/tableau01classical_logic"
 高木 翼 著
 </H4>
 
-[「論理・タブローブックス」プロジェクト](/tableau/) 第1弾
 
 ### 内容紹介
 
