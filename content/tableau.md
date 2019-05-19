@@ -1,7 +1,7 @@
 +++
 date = "2019-01-29T00:20:30+09:00"
 #menu = "main"
-title = "論理・タブローブックス"
+title = "「論理・タブローブックス」プロジェクト"
 type = "about"
 weight = 11
 URL = "/tableau"
@@ -14,10 +14,10 @@ URL = "/tableau"
 <p style="text-align: center;"><img src="/images/recentWorks/tableauBanner_ol.svg" alt="論理・タブローブックス banner" width=50%></p>
 
 <H3 style="text-align: center;">
-論理・タブローブックス
+「論理・タブローブックス」プロジェクト
 </H3>
 <H4 style="text-align: center;">
-高木 翼 著
+高木 翼
 </H4>
 
 
@@ -42,8 +42,7 @@ URL = "/tableau"
 
 ### 刊行予定
 
-1. 古典命題論理のタブロー（「古典述語論理のタブロー」と合わせての刊行を予定）
-1. 古典述語論理のタブロー（2019年5月下旬刊行予定）
+1. 形式論理探求 第1巻 古典論理のタブロー (2019年5月31日 初版発行)
 
 続刊は順次発行を予定しています。
 
