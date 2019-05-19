@@ -30,6 +30,8 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 ### ダウンロード・購入
 
+初版 2019年5月31日 発行
+
 製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624024）
 
 * Amazon （準備中）

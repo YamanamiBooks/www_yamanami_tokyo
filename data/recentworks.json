@@ -1,6 +1,30 @@
 [    
     {
         "id": 0,
+        "name": "形式論理探求 第1巻 古典論理のタブロー",
+        "image": "/images/recentWorks/20190531tableau01_ol.svg",
+        "url": "/tableau_contents/tableau01classical_logic/",
+        "items": [
+            {
+                "name": "概要・PDF版",
+                "url": "/tableau_contents/tableau01classical_logic/"
+            },
+            {
+                "name": "Amazon",
+                "url": "/tableau_contents/tableau01classical_logic/"
+            },
+            {
+                "name": "楽天ブックス",
+                "url": "/tableau_contents/tableau01classical_logic/"
+            },
+            {
+                "name": "三省堂書店 各店（店舗一覧）",
+                "url": "https://www.books-sanseido.co.jp/shop/"
+            }
+        ]
+    },
+    {
+        "id": 0,
         "name": "Journal of Science and Philosophy Volume2, Issue 1",
         "image": "/images/recentWorks/JSP2_1_ol.svg",
         "url": "/jsp_contents/jsp_2_1/",
