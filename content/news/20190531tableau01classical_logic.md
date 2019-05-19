@@ -1,11 +1,7 @@
 +++
 date = "2019-05-19T19:27:00+09:00"
-title = "最新情報 Latest News"
-weight = 2
+title = "『形式論理探求 第1巻 古典論理のタブロー』発売"
 +++
-
-**『形式論理探求 第1巻 古典論理のタブロー』発売**
-
 
 [「論理・タブローブックス」プロジェクト](/tableau/)の第1弾として、『形式論理探求 第1巻 古典論理のタブロー』の発売を開始いたしました。
 
@@ -16,10 +12,6 @@ weight = 2
 ### 出版元からひとこと
 
 今回は優れた著者に恵まれ、平易でありながら厳密さをおろそかにしていない書物を出版することができました。読者にとってうれしい特徴の一つが、確認問題・演習問題の解答の充実でしょう。本著は独習にも最適です。
-
-
-<!--more-->
-
 
 ### ダウンロード・購入
 <p style="text-align: center;"><a href="/tableau_contents/tableau01classical_logic/"><img src="/images/tableau/tableau01_cover_web01_ol_1.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover"></a></p>
@@ -38,3 +30,4 @@ weight = 2
 PDF版は無償で公開しております。
 
 詳しくは[こちら](/tableau_contents/tableau01classical_logic/)をご覧ください。
+
