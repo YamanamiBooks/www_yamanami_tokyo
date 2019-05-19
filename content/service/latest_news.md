@@ -19,8 +19,9 @@ weight = 2
 
 今回は優れた著者に恵まれ、平易でありながら厳密さをおろそかにしていない書物を出版することができました。読者にとってうれしい特徴の一つが、確認問題・演習問題の解答の充実でしょう。本著は独習にも最適です。
 
-### ダウンロード・購入
 <p style="text-align: center;"><a href="/tableau_contents/tableau01classical_logic/"><img src="/images/tableau/tableau01_cover_web01_ol_1.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover"></a></p>
+
+### ダウンロード・購入
 
 製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624024）
 
