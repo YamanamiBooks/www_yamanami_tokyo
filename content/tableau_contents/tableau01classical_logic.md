@@ -14,7 +14,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 &copy; 2019 高木翼
 </div>
 
-<p style="text-align: center;"><img src="/images/recentWorks/tableau01_cover_web01_ol_01.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover" width=50%></p>
+<p style="text-align: center;"><img src="/images/tableau/tableau01_cover_web01_ol_1.svg" alt="形式論理探求 第1巻 古典論理のタブロー cover" width=50%></p>
 
 <H3 style="text-align: center;">
 形式論理探求 第1巻 古典論理のタブロー
