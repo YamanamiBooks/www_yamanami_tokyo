@@ -36,7 +36,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 * [Amazon](https://www.amazon.co.jp/dp/4909624023/)
 * 楽天ブックス （準備中）
-* [三省堂書店 各店 （店舗一覧）（準備中） ※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
+* [三省堂書店 各店 （店舗一覧） ※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
