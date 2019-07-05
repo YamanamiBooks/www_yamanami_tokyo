@@ -6,12 +6,12 @@
             {{ partial "subheader.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.showServices }}
-            {{ partial "services.html" . }}
-        {{ end }}
-
         {{ if .Site.Params.showRecentWorks }}
             {{ partial "recentworks.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showServices }}
+            {{ partial "services.html" . }}
         {{ end }}
 
         {{ if .Site.Params.showDownload }}
