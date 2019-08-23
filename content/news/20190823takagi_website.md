@@ -1,0 +1,14 @@
++++
+date = "2019-08-23T16:35:00+09:00"
+title = "『形式論理探求 第1巻 古典論理のタブロー』著者 高木翼氏のwebサイトOPEN"
++++
+
+[『形式論理探求 第1巻 古典論理のタブロー』](/tableau_contents/tableau01classical_logic/)の著者、高木翼氏がwebサイトを開設されました。
+
+<p>高木翼氏webサイト：<a href="https://ousia.web.fc2.com/">https://ousia.web.fc2.com/</a></p>
+
+論理学に関しては[『形式論理探求 第1巻 古典論理のタブロー』](/tableau_contents/tableau01classical_logic/)のweb版と言えるものが掲載されています。スマホ等でも読みやすく、古典論理初学者にとって大変便利なサイトです。
+
+現在(2019年8月23日)、Prologの解説記事も執筆中のようです。
+
+高木氏のwebサイト、ぜひご覧ください。
