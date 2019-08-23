@@ -10,6 +10,7 @@ weight = 2
 
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px; text-align: center;">
+<p></p>
 <p>高木翼氏 webサイト</p>
 <p><a href=https://ousia.web.fc2.com/> https://ousia.web.fc2.com/ </a></p>
 </div>
