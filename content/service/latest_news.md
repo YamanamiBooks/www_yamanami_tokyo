@@ -18,4 +18,5 @@ weight = 2
 | E-mail | books@yamanami.tokyo |
 | URL | https://www.yamanami.tokyo/ |
 
+
 E-mail, URLに変更はございません。今後ともやまなみ書房をよろしくお願い申し上げます。
