@@ -35,6 +35,7 @@ Print edition: ISSN 2434-2335
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
 [[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/2/1/jsp2_1.pdf)
+<a href="/pdf/jsp/2/1/jsp2_1.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/jsp2_1.pdf')">PDF版ダウンロード</a>
 
 
 #### 創刊号から約半年を経て
@@ -43,7 +44,7 @@ Print edition: ISSN 2434-2335
 
 昨年、やまなみ書房から Journal of Science and Philosophy (JSP) の第1巻 第1号 (創刊号) を刊行した。幸いなことに多方面から反響があり、今回の第2巻第1号では、投稿者の中から若き俊英3名（高木翼氏（論理学）、横路佳幸氏（分析哲学）、山口真子氏（科学哲学））の論文を厳選し、掲載させて頂くこととなった。本稿では、各氏の論文について簡単に紹介したい。
 
-[[個別PDF]](/pdf/jsp/2/1/2_1_01sugio.pdf)
+<a href="/pdf/jsp/2/1/2_1_01sugio.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/2_1_01sugio.pdf')">個別PDF ダウンロード</a>
 
 #### K4タブローによる妥当性判定と濾過法
 高木 翼 （法政大学 文学部 哲学科）<br/>
@@ -59,7 +60,7 @@ One of the difficulties of modal logic K4 is that the tableau may be infinitely 
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-7501-5384
 
-[[論文PDF]](/pdf/jsp/2/1/2_1_03yokoro.pdf)
+<a href="/pdf/jsp/2/1/2_1_03yokoro.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/2_1_03yokoro.pdf')">個別PDF ダウンロード</a>
 
 ##### ［著者ＰＲ］
 
@@ -79,7 +80,7 @@ http://digital-archives.sophia.ac.jp/repository/view/repository/20171114017 <br>
 リンク先最下部の「ダウンロード」をクリックしてください。
 
 
-[[論文PDF]](/pdf/jsp/2/1/2_1_03yokoro.pdf)
+<a href="/pdf/jsp/2/1/2_1_03yokoro.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/2_1_03yokoro.pdf')">個別PDF ダウンロード</a>
 
 #### 知識の獲得と観察の理論負荷性
 山口 真子 （上智大学 文学部 哲学科）<br/>
@@ -89,7 +90,8 @@ http://digital-archives.sophia.ac.jp/repository/view/repository/20171114017 <br>
 
 本論文では、ハンソンが「観察の理論負荷性」をどのように科学の分野で主張したのかを明らかにしていく。そのうえで、「観察の理論負荷性」が科学史上でどのように展開されてきたのかを検討していきたい。一方で、科学史というのは我々が理論負荷を乗り越えてきた歴史といえるだろう。そこで、科学史上で乗り越えてきた事例が、観察の理論負荷性においていかに考察されうるかについて検討していきたい。これは、我々が認識したものを体系化して、知識として獲得するプロセスの基礎構造を明らかにすることにつながっていく。
 
-[[個別PDF]](/pdf/jsp/2/1/2_1_04yamaguchi.pdf)
+<a href="/pdf/jsp/2/1/2_1_04yamaguchi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/2_1_04yamaguchi.pdf')">個別PDF ダウンロード</a>
+
 
 
 ### 編集兼発行

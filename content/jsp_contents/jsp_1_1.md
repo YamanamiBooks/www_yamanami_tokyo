@@ -35,7 +35,7 @@ Print edition: ISSN 2434-2335
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
-[[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/1/1/jsp1_1.pdf)
+<a href="/pdf/jsp/1/1/jsp1_1.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/jsp1_1.pdf')">PDF版ダウンロード</a>
 
 
 #### 創刊号へ向けて
@@ -44,7 +44,7 @@ Print edition: ISSN 2434-2335
 
 Journal of Science and Philosophy ( J. Sci. Philos. または JSP ) の制作・発売を担当させていただいているやまなみ書房の飯澤です。編集委員会ではない第三者の立場から本誌をご紹介させて戴きます。
 
-[[個別PDF]](/pdf/jsp/1/1/1_1_01iizawa.pdf)
+<a href="/pdf/jsp/1/1/1_1_01iizawa.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/1_1_01iizawa.pdf')">個別PDF ダウンロード</a>
 
 #### ハーバート・スペンサーにおける個人主義思想の再検討
 久野 真隆 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
@@ -58,7 +58,7 @@ But, in the traditional studies of Spencer's individualism, it is possible that 
 
 First, this paper will give an outline of a conventional explanation of Spencer's individualism. Second, it will examine this old explanation. Third, it will point out some problems on that. Finally, the paper will show a possibility of a new interpretation of Spencer's individualism.
 
-[[個別PDF]](/pdf/jsp/1/1/1_1_02hisano.pdf)
+<a href="/pdf/jsp/1/1/1_1_02hisano.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/1_1_02hisano.pdf')">個別PDF ダウンロード</a>
 
 #### 物理的 “実在” についての哲学的試論
 杉尾 一 （上智大学 文学部 哲学科）<br/>
@@ -73,7 +73,7 @@ For this purpose, this study deals with EPR, Einstein's letter to Schröodinger,
 In this process, you find that EPR did not reflect Einstein's metaphysics, and also understand the difference between Bohr's interpretation of quantum mechanics and so-called “Copenhagen Interpretation.”
 As a result, this paper shows that Einstein's metaphysics and Bohr's epistemology should not be opposed to each other, and their philosophy rather promotes development of physics.
 
-[[個別PDF]](/pdf/jsp/1/1/1_1_03sugio.pdf)
+<a href="/pdf/jsp/1/1/1_1_03sugio.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/1_1_03sugio.pdf')">個別PDF ダウンロード</a>
 
 #### 時を巡る思考の散策《フィールドワーク》
 脇本 佑紀 （ニュートンワークス株式会社）<br/>
@@ -82,7 +82,7 @@ As a result, this paper shows that Einstein's metaphysics and Bohr's epistemolog
 この文書は時に関する歴史散策/思考を筆の随に遊ばせる、エッセイのようなものであり、随筆であり、試みである。
 主に物理学を、副に哲学を軸とする。詩と神話にも触れる。随所に稚拙な理解/散漫な論理展開が見られるが、アカデミック・ソフィスティケーションの萌芽として、ご指導ご鞭撻のほどを賜りたく献じるものである。
 
-[[個別PDF]](/pdf/jsp/1/1/1_1_04wakimoto.pdf)
+<a href="/pdf/jsp/1/1/1_1_04wakimoto.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/1_1_04wakimoto.pdf')">個別PDF ダウンロード</a>
 
 ### 編集兼発行
 〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内<br>
