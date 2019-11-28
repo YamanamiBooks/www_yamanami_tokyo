@@ -28,6 +28,12 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 タブローという図によって論理を視覚的に分析する方法について丁寧に解説する。本書では、最も基本的な論理として知られている古典論理を探求する。
 
+本書では、最も基本的な論理として知られている「古典論理」を初学者でも分かるように丁寧に解説する。本書の最大の特徴は、合計53問の練習問題とその詳細な解答（約50ページ！）を掲載している点にある。著者としては、論理学は実践して初めて自分のものになる学問だと考えているので、このように豊富な練習問題を掲載した。この本は、特に次のような読者におすすめする。
+
+* 論理学を基本的な部分から体系的に勉強したい
+* 文字だけで色々言われても分からないので、図を使って論理を勉強したい。
+* 実際に論理が身についているか不安なので、たくさんの問題を解いて理解度を確認したい。
+
 ### ダウンロード・購入
 
 初版 2019年5月31日 発行
@@ -40,7 +46,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
-[[PDF版はこちらからダウンロード出来ます]](/pdf/books/tableau/tableau01classical_logic.pdf)
+<a href="/pdf/books/tableau/tableau01classical_logic.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/books/tableau/tableau01classical_logic.pdf')">PDF版ダウンロード</a>
 
 
 ### 目次
