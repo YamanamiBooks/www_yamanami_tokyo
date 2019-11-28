@@ -34,7 +34,6 @@ Print edition: ISSN 2434-2335
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
-[[PDF版はこちらからダウンロード出来ます]](/pdf/jsp/2/1/jsp2_1.pdf)
 <a href="/pdf/jsp/2/1/jsp2_1.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/jsp2_1.pdf')">PDF版ダウンロード</a>
 
 
@@ -55,6 +54,7 @@ Print edition: ISSN 2434-2335
 One of the difficulties of modal logic K4 is that the tableau may be infinitely long and the validity of a formula cannot be determined. However, an infinite counter-model of the formula can be constructed by finding a pattern of the infinitely long tableau. In order to transform the infinite counter-model into a finite counter-model, we should suppose that reflexibility holds in the part of the same infinite prefixed formula except for their prefixes. In this paper, I show that this transformation is the special case of filtration method.
 
 [[個別PDF]](/pdf/jsp/2/1/2_1_02takagi.pdf)
+<a href="/pdf/jsp/2/1/2_1_02takagi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/2_1_02takagi.pdf')">個別PDF ダウンロード</a>
 
 #### アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）<br/>
