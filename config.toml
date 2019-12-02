@@ -5,12 +5,6 @@ languageCode = "ja-jp"
 theme = "hugo-initio"
 publishDir = "public"
 
-# avoid omitting raw HTML
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
     name = "やまなみ書房"
     description = "Yamanami Books"
