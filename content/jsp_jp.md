@@ -39,7 +39,7 @@ Journal of Science and Philosophy 編集委員会<br>
 [Journal of Science and Philosophy 編集委員会について](/jsp/jsp_editorialcommittee/)
 
 <H3>制作・オンライン版配布元・印刷版発売元</H3>
-神奈川県相模原市緑区橋本2-7-9 古川荘201 さがみ進学プラザ内<br>
+〒156-0043 東京都世田谷区松原5丁目22番地6番 リベラリティ内<br>
 やまなみ書房
 
 <H3>投稿方法</H3>

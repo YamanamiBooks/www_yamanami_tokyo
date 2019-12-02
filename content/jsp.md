@@ -41,8 +41,7 @@ Sophia University Bldg. 7 Room 313<br>
 
 <H3>Producer and Distributor of Online Edition and Print Edition</H3>
 Yamanami Books<br>
-Sagami-Shingaku-Plaza, Furukawa-so 201,<br>
-2-7-9, Hashimoto, Midori-ku, Sagamihara-shi, Kanagawa, 252-0143, Japan
+Liberality, Matsubara 5-22-6, Setagaya-ku, Tokyo, 156-0043, Japan
 
 ---
 <H3>Publication</H3>
