@@ -110,7 +110,7 @@ URL = "/analytical_machanics"
 ### 著者プロフィール
 
 <p style= "margin: 0 0 10px 0;">細谷 曉夫（ほそや あきお）</p>
-<p style= "margin: 0 0 10px 0;">東京工業大学大学院名誉教授。理学博士。大阪大学助手、助教授、広島大学教授などを経る。主な研究分野は、相対論、宇宙論、量子力学の基礎、および量子情報。主な著作に「量子コンピュータの基礎」（サイエンス社）と「物理の基礎的13の法則」（丸善）がある。趣味は詩を書き絵を描くこと。猫好き。</p>
+<p style= "margin: 0 0 10px 0;">東京工業大学大学院名誉教授。理学博士。大阪大学助手、助教授、広島大学教授などを経る。主な研究分野は、相対論、宇宙論、量子力学の基礎、および量子情報。主な著作に[「量子コンピュータの基礎」（サイエンス社）](https://www.saiensu.co.jp/search/?isbn=4910054700992&y=2009)と[「物理の基礎的13の法則」（丸善）](https://www.maruzen-publishing.co.jp/item/?book_no=295168)がある。趣味は詩を書き絵を描くこと。猫好き。</p>
 <p>著者webサイト：<a href="https://akiobongo.wordpress.com/">https://akiobongo.wordpress.com/</a></p>
 
 
