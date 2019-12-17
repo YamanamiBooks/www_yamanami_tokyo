@@ -12,13 +12,24 @@ URL = "/analytical_machanics"
 <p style="text-align: center;"><img src="/images/recentWorks/analyticalBanner_ol.svg" alt="解析力学 細谷曉夫著 banner" width=50%></p>
 
 
-刊行予定。乞うご期待！
-
-（書籍版 ISBN 978-4-909624031）
-
 ### 内容紹介
 
 学部学生を対象に、解析力学独特の考え方の導入部に神経を使ったつもりである。最小作用を考える動機と起源など初学者が疑問に思うことを、実際に受講した東工大の学生から受けた質問を元に取り上げた。その一方で、類書にないトピックも取り上げた。例えば、摩擦のある系、ラグランジュの未定係数法の正当化と抗力などである。最後は、量子力学による最小作用の原理の正当化で締めくくった。
+
+
+### ダウンロード・購入
+
+初版 2020年1月1日 発行
+
+製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624031）
+
+* [Amazon](https://www.amazon.co.jp/dp/4909624031/)
+* 楽天ブックス（準備中）
+* 三省堂書店 各店（準備中）
+
+発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
+
+<a href="/pdf/books/analytical_mechanics.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/books/analytical_mechanics.pdf')">PDF版ダウンロード</a>
 
 
 ### 目次
