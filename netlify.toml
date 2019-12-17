@@ -50,3 +50,10 @@ from = "/pdf/jsp/2/1/2_1_01yokoro.pdf"
 to = "/pdf/jsp/2/1/2_1_03yokoro.pdf"
 status = 301
 force = true
+
+
+[[redirects]]
+from = "/analytical_machanics"
+to = "/analytical_mechanics"
+status = 301
+force = true

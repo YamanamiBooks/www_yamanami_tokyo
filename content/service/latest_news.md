@@ -33,7 +33,7 @@ weight = 2
 
 PDF版は無償で公開しております。
 
-詳しくは[こちら](/analytical_machanics)をご覧ください。
+詳しくは[こちら](/analytical_mechanics)をご覧ください。
 
 
 

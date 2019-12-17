@@ -4,7 +4,7 @@ date = "2019-11-16T21:25:00+09:00"
 title = "解析力学 細谷曉夫著"
 type = "about"
 weight = 11
-URL = "/analytical_machanics"
+URL = "/analytical_mechanics"
 +++
 
 
