@@ -3,11 +3,11 @@
         "id": 0,
         "name": "解析力学",
         "image": "/images/recentWorks/analyticalBanner_ol.svg",
-        "url": "/analytical_machanics",
+        "url": "/analytical_mechanics",
         "items": [
             {
                 "name": "概要・PDF版",
-                "url": "/analytical_machanics"
+                "url": "/analytical_mechanics"
             },
             {
                 "name": "Amazon",
