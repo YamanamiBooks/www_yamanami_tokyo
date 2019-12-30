@@ -48,5 +48,5 @@ Yamanami Books Grants for Exploratory Research
 * 助成番号: T00002
 * 助成年月: 2019年12月
 * 助成内容: 論文投稿費用・研究費支援
-* 研究・企画 詳細: (執筆中)
+* 研究・企画 詳細: [リンク先 (執筆中)](/supporter_sponsor/20191201calogic/)
 * 助成対象者: 保科宏樹
