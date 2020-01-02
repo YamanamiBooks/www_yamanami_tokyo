@@ -187,7 +187,7 @@ Journal of Science and Philosophy 編集委員会<br>
 	},
 	"inLanguage": "ja-JP",
 	"isbn": "9784909624017",
-	"name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019) Preprint Edition",
+	"name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019)",
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
