@@ -16,7 +16,7 @@ Print edition: ISSN 2434-2335
 
 学術誌の新しいありかたを実験するための学術誌 Journal of Science and Philosophy (JSP)
 
-## 第3巻第1号(2020年3月)
+## 第3巻第1号(2020年3月)［プレプリント版］
 2020年3月31日 発行予定
 
 <p style="text-align: center;"><img src="/images/recentWorks/JSP3_1_ol.svg" alt="JSP 3(1) banner" width=50%></p>
