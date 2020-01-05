@@ -24,6 +24,14 @@
             {
                 "name": "Amazon",
                 "url": "https://www.amazon.co.jp/dp/4909624031/"
+            },
+            {
+                "name": "楽天ブックス",
+                "url": "https://books.rakuten.co.jp/rb/16183410/"
+            },
+            {
+                "name": "三省堂書店 各店（店舗一覧）",
+                "url": "https://www.books-sanseido.co.jp/shop/"
             }
         ]
     },
