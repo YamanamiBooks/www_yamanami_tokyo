@@ -12,6 +12,7 @@ title = "保科宏樹氏が第9回 QUATUO 研究会で発表を行います"
     * [崇城大学 メインキャンパスマップ（崇城大学公式サイトへ）](https://www.sojo-u.ac.jp/access/campus/)
 * 参加費：無料（要申し込み）
 * 発表タイトル：生成消滅演算子にもとづく量子論理
+* 著者：保科宏樹，飯澤正登実，齋藤曉
 * [研究会webサイト http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=第9回quatuo研究会](http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=%E7%AC%AC9%E5%9B%9Equatuo%E7%A0%94%E7%A9%B6%E4%BC%9A)
 
 

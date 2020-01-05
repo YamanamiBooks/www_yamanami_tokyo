@@ -13,7 +13,8 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
 
 
 <span style="font-size: 120%;">
-研究概要執筆中</span>
+<p>ミクロスケールの物理では、物質の基本的構成要素である素粒子が生成と消滅を絶えず繰り返していることが知られており、量子場の理論を用いて記述される。これまで、量子場の理論に論理学的アプローチは用いられて来なかった。</p>
+<p>今回、我々はそのファーストステップとして、量子力学における論理として知られる量子論理を、量子場の理論における基礎量である生成消滅作用素を用いて定式化することを試みる。</p></span>
 
 
 ##### 研究発表
@@ -26,6 +27,7 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
     * [崇城大学 メインキャンパスマップ（崇城大学公式サイトへ）](https://www.sojo-u.ac.jp/access/campus/)
 * 参加費：無料（要申し込み）
 * 発表タイトル：生成消滅演算子にもとづく量子論理
+* 著者：保科宏樹，飯澤正登実，齋藤曉
 * [研究会webサイト http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=第9回quatuo研究会](http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=%E7%AC%AC9%E5%9B%9Equatuo%E7%A0%94%E7%A9%B6%E4%BC%9A)
 
 ###### 量子論の諸問題と今後の発展（第7回）（略称：QMKEK）
@@ -48,7 +50,16 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
 * [大会プログラム https://w4.gakkai-web.net/jps_search/2020sp/](https://w4.gakkai-web.net/jps_search/2020sp/)
 
 
+##### 研究グループ
+
+Liberarity Research 所属 (ABC順)
+
+* 保科宏樹
+* 飯澤正登実
+* 齋藤曉
+
+
 ##### 助成対象者
 
 ［保科 宏樹］<BR>
-東京大学大学院 総合文化研究科 広域科学専攻 相関基礎科学系 博士後期課程。専門はXXXX。主な論文はXXXX。
+東京大学大学院 総合文化研究科 博士課程在籍。専門は素粒子論。主な論文は「Schwiner-Keldysh formalism of Gauge Theories on the lattice」(投稿準備中)。最近は、量子論理を用いて量子論の基礎的な問題にアプローチできないかということについても検討している。
