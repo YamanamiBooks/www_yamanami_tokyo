@@ -62,4 +62,4 @@ Liberarity Research 所属 (ABC順)
 ##### 助成対象者
 
 ［保科 宏樹］<BR>
-東京大学大学院 総合文化研究科 博士課程在籍。専門は素粒子論。主な論文は「Schwiner-Keldysh formalism of Gauge Theories on the lattice」(投稿準備中)。最近は、量子論理を用いて量子論の基礎的な問題にアプローチできないかということについても検討している。
+東京大学大学院 総合文化研究科 博士課程在籍。専門は素粒子論。主な論文は「Schwiner-Keldysh formalism of Gauge Theories on the lattice」(投稿準備中)。最近は、量子論理を用いて量子論の基礎的な問題にアプローチできないかということについても検討している。[[reserachmap]](https://researchmap.jp/hfoahs/)
