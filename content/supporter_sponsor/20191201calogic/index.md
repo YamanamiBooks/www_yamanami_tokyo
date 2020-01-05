@@ -52,7 +52,7 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
 
 ##### 研究グループ
 
-Liberarity Research 所属 (ABC順)
+Liberality Research 所属 (ABC順)
 
 * 保科宏樹
 * 飯澤正登実
