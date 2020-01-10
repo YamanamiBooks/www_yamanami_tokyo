@@ -24,13 +24,13 @@ Journal of Science and Philosophy
 biannual publication
 
 <H3>Prospectus</H3>
-[[PDF] in Japanese](/pdf/shusi.pdf)
+<a href="/pdf/shusi.pdf" onclick="ga('send', 'pageview', '/pdf/shusi.pdf')">[PDF] in Japanese</a>
 
 <H3>Submission Guidelines</H3>
-[[PDF] in Japanese](/pdf/toukou.pdf)
+<a href="/pdf/toukou.pdf" onclick="ga('send', 'pageview', '/pdf/toukou.pdf')">[PDF] in Japanese</a>
 
 <H3>Referee Guidelines</H3>
-[[PDF] in Japanese](/pdf/sadoku.pdf)
+<a href="/pdf/sadoku.pdf" onclick="ga('send', 'pageview', '/pdf/sadoku.pdf')">[PDF] in Japanese</a>
 
 <H3>Editor and Issuer</H3>
 Journal of Science and Philosophy editorial committee, Association for Science and Philosophy<br>

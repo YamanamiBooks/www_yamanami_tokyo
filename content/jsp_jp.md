@@ -23,13 +23,13 @@ Journal of Science and Philosophy
 半年刊
 
 <H3>設立趣旨</H3>
-[[PDF]](/pdf/shusi.pdf)
+<a href="/pdf/shusi.pdf" onclick="ga('send', 'pageview', '/pdf/shusi.pdf')">[PDF]</a>
 
 <H3>投稿規程</H3>
-[[PDF]](/pdf/toukou.pdf)
+<a href="/pdf/toukou.pdf" onclick="ga('send', 'pageview', '/pdf/toukou.pdf')">[PDF]</a>
 
 <H3>査読規程</H3>
-[[PDF]](/pdf/sadoku.pdf)
+<a href="/pdf/sadoku.pdf" onclick="ga('send', 'pageview', '/pdf/sadoku.pdf')">[PDF]</a>
 
 <H3>編集兼発行</H3>
 〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内<br>
