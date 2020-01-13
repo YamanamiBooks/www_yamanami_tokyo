@@ -24,7 +24,8 @@ JSPでは、若手を含む研究者どうしの異分野交流を積極的に�
 
 ---
 <H3>Title</H3>
-Journal of Science and Philosophy
+Journal of Science and Philosophy<br>
+abbreviation : “J. Sci. Philos.” or “JSP”
 
 <H3>Publication Frequency</H3>
 biannual publication
