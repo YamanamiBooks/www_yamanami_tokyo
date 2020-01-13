@@ -15,6 +15,9 @@ Print edition: ISSN 2434-2335
 <p style="text-align: center">
 Japanese JSP web site is <a href="/jsp/jsp_jp">here</a>.
 </p>
+<p style="text-align: center">
+JSPでは、若手を含む研究者どうしの異分野交流を積極的に推進しています。科学・哲学に関連するテーマや、その他学術・研究に関するテーマでJSPへの投稿を検討している方、もしくはJSPの編集にご興味をお持ちの方はお気軽に、編集委員会(<a href="mailto:office-asp@yamanami.tokyo">office-asp@yamanami.tokyo</a>)までご連絡ください。
+</p>
 
 ---
 <H3>Title</H3>
