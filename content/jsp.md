@@ -1,7 +1,7 @@
 +++
 date = "2018-08-15T12:00:00+09:00"
 #menu = "main"
-title = "Journal of Science and Philosophy"
+title = "Journal of Science and Philosophy (en)"
 type = "about"
 weight = 4
 URL = "/jsp"
