@@ -1,6 +1,6 @@
 +++
 date = "2018-08-15T12:00:00+09:00"
-#menu = "main"
+menu = "main"
 title = "(JA) Journal of Science and Philosophy"
 type = "about"
 weight = 8
