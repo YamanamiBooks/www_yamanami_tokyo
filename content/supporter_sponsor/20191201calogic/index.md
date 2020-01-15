@@ -42,12 +42,13 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
 
 ###### 日本物理学会 第75回年次大会
 
-* 日時：2020年3月16日〜19日
+* 日時：2020年3月16日（月）
 * 場所：名古屋大学 東山キャンパス
     * [名古屋大学 東山キャンパスマップ（名古屋大学公式サイトへ）](http://www.nagoya-u.ac.jp/access-map/index.html)
 * 参加費：有料（[日本物理学会webサイトをご覧ください](https://www.jps.or.jp/activities/meetings/gaiyou.php)）
 * 発表タイトル：生成消滅演算子にもとづく量子論理
-* [大会プログラム https://w4.gakkai-web.net/jps_search/2020sp/](https://w4.gakkai-web.net/jps_search/2020sp/)
+* 著者：保科宏樹，飯澤正登実，齋藤曉，高木翼
+* [大会プログラム https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35)
 
 
 ##### 研究グループ
