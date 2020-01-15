@@ -51,17 +51,7 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
 * [大会プログラム https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35)
 
 
-##### 研究グループ
-
-Liberality Research 所属 (ABC順)
-
-* 保科宏樹
-* 飯澤正登実
-* 齋藤曉
-* 高木翼
-
-
-##### 助成対象者
+#### 助成対象者
 
 ［保科 宏樹］<BR>
 東京大学大学院 総合文化研究科 博士課程在籍。専門は素粒子論。主な論文は「Schwiner-Keldysh formalism of Gauge Theories on the lattice」(投稿準備中)。最近は、量子論理を用いて量子論の基礎的な問題にアプローチできないかということについても検討している。[[reserachmap]](https://researchmap.jp/hfoahs/)
