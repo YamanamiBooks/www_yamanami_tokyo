@@ -27,7 +27,6 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
     * [崇城大学 メインキャンパスマップ（崇城大学公式サイトへ）](https://www.sojo-u.ac.jp/access/campus/)
 * 参加費：無料（要申し込み）
 * 発表タイトル：生成消滅演算子にもとづく量子論理
-* 著者：保科宏樹，飯澤正登実，齋藤曉
 * [研究会webサイト http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=第9回quatuo研究会](http://www.sceng.kochi-tech.ac.jp/koban/quatuo/doku.php?id=%E7%AC%AC9%E5%9B%9Equatuo%E7%A0%94%E7%A9%B6%E4%BC%9A)
 
 ###### 量子論の諸問題と今後の発展（第7回）（略称：QMKEK）
@@ -47,7 +46,6 @@ URL = "/supporter_sponsor/20191201calogic/index.html"
     * [名古屋大学 東山キャンパスマップ（名古屋大学公式サイトへ）](http://www.nagoya-u.ac.jp/access-map/index.html)
 * 参加費：有料（[日本物理学会webサイトをご覧ください](https://www.jps.or.jp/activities/meetings/gaiyou.php)）
 * 発表タイトル：生成消滅演算子にもとづく量子論理
-* 著者：保科宏樹，飯澤正登実，齋藤曉，高木翼
 * [大会プログラム https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35](https://w4.gakkai-web.net/jps_search/2020sp/data/html/program11.html#j16aK35)
 
 
