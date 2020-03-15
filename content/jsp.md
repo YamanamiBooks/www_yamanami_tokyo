@@ -83,6 +83,7 @@ Liberality, Matsubara 5-22-6, Setagaya-ku, Tokyo, 156-0043, Japan
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+	},
+	"license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>
