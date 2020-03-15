@@ -19,7 +19,7 @@ English web site is <a href="/jsp">here</a>.
 ---
 
 <p>
-JSPでは、若手を含む研究者どうしの異分野交流を積極的に推進しています。科学・哲学に関連するテーマや、その他学術・研究に関するテーマでJSPへの投稿を検討している方、もしくはJSPの編集にご興味をお持ちの方はお気軽に、編集委員会(<a href="mailto:office-asp@yamanami.tokyo">office-asp@yamanami.tokyo</a>)までご連絡ください。
+Journal of Science and Philosophy (JSP)は、実験的学術誌としての役目を終えたため、第3巻(2020年3月)を持って刊行を終了いたしました。
 </p>
 
 ---
