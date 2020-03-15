@@ -141,6 +141,7 @@ URL = "/analytical_mechanics"
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+	},
+	"license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>

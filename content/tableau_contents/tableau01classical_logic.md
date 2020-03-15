@@ -136,6 +136,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 	"publisher" : {
 		"@type" : "Organization",
 		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+	},
+	"license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>
