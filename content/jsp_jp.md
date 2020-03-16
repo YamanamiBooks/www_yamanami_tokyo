@@ -53,7 +53,7 @@ Journal of Science and Philosophy 編集委員会<br>
 〒156-0043 東京都世田谷区松原5丁目22番地6番 リベラリティ内<br>
 やまなみ書房
 
-<H3>投稿方法</H3>
+<H3><span style="text-decoration: line-through;">投稿方法</span></H3>
 <span style="text-decoration: line-through;">上記設立趣旨・投稿規程・査読規程をご覧の上、[Journal of Science and Philosophy 投稿情報提供フォーム](https://forms.gle/7EAmaWZLZZcrosrY9)から投稿する論文の情報をお送りください。原稿のファイルは、メールにてJournal of Science and Philosophy 編集委員会( [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo) )宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。その他ご質問等がございましたら、編集委員会へお気軽にご連絡ください。</span>
 
 
