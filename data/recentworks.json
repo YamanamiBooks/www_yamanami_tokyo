@@ -1,12 +1,12 @@
 [
     {
         "id": 0,
-        "name": "Journal of Science and Philosophy Volume3, Issue 1 (preprint)",
+        "name": "Journal of Science and Philosophy Volume3, Issue 1",
         "image": "/images/recentWorks/JSP3_1_ol.svg",
         "url": "/jsp_contents/jsp_3_1/",
         "items": [
             {
-                "name": "早期公開版",
+                "name": "概要・PDF版",
                 "url": "/jsp_contents/jsp_3_1/"
             }
         ]

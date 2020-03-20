@@ -58,7 +58,7 @@ Liberality, Matsubara 5-22-6, Setagaya-ku, Tokyo, 156-0043, Japan
 
 * [Volume 1, Issue 1, Whole Number 1 (Sep. 2018)](/jsp_contents/jsp_1_1/) publication on September 19, 2018. <a href="/pdf/jsp/1/1/jsp1_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/jsp1_1.pdf')">[PDF]</a>
 * [Volume 2, Issue 1, Whole Number 2 (Mar. 2019)](/jsp_contents/jsp_2_1/) publication on March 31, 2019. <a href="/pdf/jsp/2/1/jsp2_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/jsp2_1.pdf')">[PDF]</a>
-* [Volume 3, Issue 1, Whole Number 3 (Mar. 2020)](/jsp_contents/jsp_3_1/) (will be published on the end of March, 2020)
+* [Volume 3, Issue 1, Whole Number 3 (Mar. 2020)](/jsp_contents/jsp_3_1/) publication on March 31, 2020. <a href="/pdf/jsp/3/1/jsp3_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/jsp3_1.pdf')">[PDF]</a>
 
 
 <script type="application/ld+json">
