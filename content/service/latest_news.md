@@ -10,5 +10,6 @@ Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020) を2020年3月
 
 詳しくは[こちら](/jsp_contents/jsp_3_1)をご覧ください。
 
+
 <!--more-->
 
