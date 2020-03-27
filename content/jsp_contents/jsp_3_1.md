@@ -28,7 +28,7 @@ Print edition: ISSN 2434-2335
 
 製本版はこちらでお買い求め戴けます（書籍版 ISBN 978-4-909624048）
 
-* [Amazon](https://www.amazon.co.jp/dp/4909624023/)
+* [Amazon](https://www.amazon.co.jp/dp/490962404X/)
 * 楽天ブックス（準備中）
 * [三省堂書店 各店 （店舗一覧）※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
