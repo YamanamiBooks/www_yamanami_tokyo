@@ -8,6 +8,14 @@
             {
                 "name": "概要・PDF版",
                 "url": "/jsp_contents/jsp_3_1/"
+            },
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.co.jp/dp/4909624023/"
+            },
+            {
+                "name": "三省堂書店 各店（店舗一覧）",
+                "url": "https://www.books-sanseido.co.jp/shop/"
             }
         ]
     },
