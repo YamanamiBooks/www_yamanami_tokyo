@@ -1,15 +1,16 @@
 +++
-date = "2020-03-23T22:40:00+09:00"
+date = "2020-05-07T22:20:00+09:00"
 title = "最新情報 Latest News"
 weight = 2
 +++
 
-**JSP 3(1) 発行**
+**JSP 3(1) 「日本の研究界における男女格差について」正誤表**
 
-Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020) を2020年3月31日に発行いたします。（書籍版 ISBN 978-4-909624048）
+Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020) に掲載した[「日本の研究界における男女格差について」](/jsp_contents/jsp_3_1)の図に誤植がありました。
 
-詳しくは[こちら](/jsp_contents/jsp_3_1)をご覧ください。
+正誤表は以下からダウンロードしていただけます。
 
+<a href="/pdf/jsp/3/1/3erratum_1_01_Toyoizumi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/3erratum_1_01_Toyoizumi.pdf')">Erratum ダウンロード</a>
 
 <!--more-->
 
