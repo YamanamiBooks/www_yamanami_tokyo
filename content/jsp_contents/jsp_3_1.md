@@ -48,7 +48,7 @@ Japan, perhaps unsurprisingly, has the lowest ratio of women in academia among t
 <a href="/pdf/jsp/3/1/3_1_01toyoizumi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/3_1_01toyoizumi.pdf')">個別PDF ダウンロード</a>
 
 
-<a href="/pdf/jsp/3/1/3erratum_1_01_Toyoizumi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/3erratum_1_01_Toyoizumi.pdf')">Erratum ダウンロード</a>
+<a href="/pdf/jsp/3/1/3errata_1_01_Toyoizumi.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/3errata_1_01_Toyoizumi.pdf')">Erratum ダウンロード</a>
 
 
 #### 哲学系国際誌への論文投稿に係る投稿先選定のための手引き ——哲学分野における主要な国際誌データベース情報、ハゲタカジャーナル情報、および国際誌と本邦学会誌との差異に関する試論——
