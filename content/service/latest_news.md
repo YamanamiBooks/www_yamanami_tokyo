@@ -6,7 +6,7 @@ weight = 2
 
 **JSP 3(1) 「日本の研究界における男女格差について」正誤表**
 
-Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020) に掲載した[「日本の研究界における男女格差について」](/jsp_contents/jsp_3_1)の図に誤植がありました。
+Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020) に掲載した[「日本の研究界における男女格差について」](/jsp_contents/jsp_3_1)の図2、図4に誤植がありました。
 
 正誤表は以下からダウンロードしていただけます。
 
