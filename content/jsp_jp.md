@@ -32,12 +32,15 @@ Journal of Science and Philosophy
 
 ### 設立趣旨
 {{< analytics_a href="/pdf/shusi.pdf" text="[PDF]" >}}
+<p></p>
 
 ### 投稿規程
 {{< analytics_a href="/pdf/toukou.pdf" text="[PDF]">}}
+<p></p>
 
 ### 査読規程
 {{< analytics_a href="/pdf/sadoku.pdf" text="[PDF]" >}}
+<p></p>
 
 ### 編集兼発行
 〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内  

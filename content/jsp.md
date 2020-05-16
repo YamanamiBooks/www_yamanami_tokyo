@@ -32,12 +32,15 @@ biannual publication
 
 ### Prospectus
 {{< analytics_a href="/pdf/shusi.pdf" text="[PDF] in Japanese" >}}
+<p></p>
 
 ### Submission Guidelines
 {{< analytics_a href="/pdf/toukou.pdf" text="[PDF] in Japanese" >}}
+<p></p>
 
 ### Referee Guidelines
 {{< analytics_a href="/pdf/sadoku.pdf" text="[PDF] in Japanese" >}}
+<p></p>
 
 ### Editor and Issuer
 Journal of Science and Philosophy editorial committee, Association for Science and Philosophy  
