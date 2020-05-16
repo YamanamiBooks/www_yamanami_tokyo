@@ -1,0 +1,5 @@
+{{- $href := .Get "href" -}}
+{{- if not $href -}}
+  {{ errorf "missing value for param 'href': ％s" .Position }}
+{{- end -}}
+<a href={{ $href }} onclick={{printf "ga('send', 'pageview', '%s' )" $href | safeJS}}>{{.Get "text"}}</a>

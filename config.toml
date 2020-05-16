@@ -106,3 +106,10 @@ publishDir = "public"
     footer = true
     sharethis = true
     network = "email"
+
+[markup]
+#        defaultMarkdownHandler = "blackfriday"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#      hardWraps = true

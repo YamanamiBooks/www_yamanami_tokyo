@@ -18,51 +18,49 @@ English web site is <a href="/jsp">here</a>.
 
 ---
 
-<p>
 Journal of Science and Philosophy (JSP)は、人的リソースの不足ならびに実験的学術誌としての役目を終えたことから、第3巻(2020年3月)をもって刊行を終了いたしました。短い間ではございましたがご愛顧くださり誠にありがとうございました。第3巻までの電子版・冊子版の公開・販売は継続いたします。
-</p>
-<p>
+
 これからも学術界を盛り上げるために新しい企画を提案してまいります。ご期待ください。
-</p>
 
 ---
-<H3>タイトル</H3>
-Journal of Science and Philosophy<br>
+### タイトル
+Journal of Science and Philosophy  
 略称：J. Sci. Philos. または JSP
 
-<H3>刊行頻度</H3>
+### 刊行頻度
 半年刊
 
-<H3>設立趣旨</H3>
-<a href="/pdf/shusi.pdf" onclick="ga('send', 'pageview', '/pdf/shusi.pdf')">[PDF]</a>
+### 設立趣旨
+{{< analytics_a href="/pdf/shusi.pdf" text="[PDF]" >}}
 
-<H3>投稿規程</H3>
-<a href="/pdf/toukou.pdf" onclick="ga('send', 'pageview', '/pdf/toukou.pdf')">[PDF]</a>
+### 投稿規程
+{{< analytics_a href="/pdf/toukou.pdf" text="[PDF]">}}
 
-<H3>査読規程</H3>
-<a href="/pdf/sadoku.pdf" onclick="ga('send', 'pageview', '/pdf/sadoku.pdf')">[PDF]</a>
+### 査読規程
+{{< analytics_a href="/pdf/sadoku.pdf" text="[PDF]" >}}
 
-<H3>編集兼発行</H3>
-〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内<br>
-Association for Science and Philosophy<br>
-Journal of Science and Philosophy 編集委員会<br>
-[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)<br><br>
+### 編集兼発行
+〒102-8554 東京都千代田区 紀尾井町7-1 上智大学7号館313 内  
+Association for Science and Philosophy  
+Journal of Science and Philosophy 編集委員会  
+[office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo)
+
 [Journal of Science and Philosophy 編集委員会について](/jsp/jsp_editorialcommittee/)
 
-<H3>制作・オンライン版配布元・印刷版発売元</H3>
-〒156-0043 東京都世田谷区松原5丁目22番地6番 リベラリティ内<br>
+### 制作・オンライン版配布元・印刷版発売元
+〒156-0043 東京都世田谷区松原5丁目22番地6番 リベラリティ内  
 やまなみ書房
 
 <H3><span style="text-decoration: line-through;">投稿方法</span></H3>
-<span style="text-decoration: line-through;">上記設立趣旨・投稿規程・査読規程をご覧の上、[Journal of Science and Philosophy 投稿情報提供フォーム](https://forms.gle/7EAmaWZLZZcrosrY9)から投稿する論文の情報をお送りください。原稿のファイルは、メールにてJournal of Science and Philosophy 編集委員会( [office-asp@yamanami.tokyo](mailto:office-asp@yamanami.tokyo) )宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。その他ご質問等がございましたら、編集委員会へお気軽にご連絡ください。</span>
+<span style="text-decoration: line-through;">上記設立趣旨・投稿規程・査読規程をご覧の上、<a href="https://forms.gle/7EAmaWZLZZcrosrY9">Journal of Science and Philosophy 投稿情報提供フォーム</a>から投稿する論文の情報をお送りください。原稿のファイルは、メールにてJournal of Science and Philosophy 編集委員会<a href="mailto:office-asp@yamanami.tokyo">office-asp@yamanami.tokyo</a>宛てにご送付ください。紙原稿の郵送等は不要です。何らかの事情で原稿を送信できない場合は、別途メールにてご相談ください。郵送での送付等、代替案を検討させて戴きます。その他ご質問等がございましたら、編集委員会へお気軽にご連絡ください。</span>
 
 
 ---
-<H3>刊行</H3>
+### 刊行
 
-* [1巻 1号 通号1号 (2018年9月号)](/jsp_contents/jsp_1_1/) 2018年9月19日発行 <a href="/pdf/jsp/1/1/jsp1_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/1/1/jsp1_1.pdf')">[PDF]</a>
-* [2巻 1号 通号2号 (2019年3月号)](/jsp_contents/jsp_2_1/) 2019年3月31日発行 <a href="/pdf/jsp/2/1/jsp2_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/2/1/jsp2_1.pdf')">[PDF]</a>
-* [3巻 1号 通号3号 (2020年3月号)](/jsp_contents/jsp_3_1/) 2020年3月31日発行 <a href="/pdf/jsp/3/1/jsp3_1.pdf" onclick="ga('send', 'pageview', '/pdf/jsp/3/1/jsp3_1.pdf')">[PDF]</a>
+* [1巻 1号 通号1号 (2018年9月号)](/jsp_contents/jsp_1_1/) 2018年9月19日発行 {{< analytics_a href="/pdf/jsp/1/1/jsp1_1.pdf" text="[PDF]" >}}
+* [2巻 1号 通号2号 (2019年3月号)](/jsp_contents/jsp_2_1/) 2019年3月31日発行 {{< analytics_a href="/pdf/jsp/2/1/jsp2_1.pdf" text="[PDF]" >}}
+* [3巻 1号 通号3号 (2020年3月号)](/jsp_contents/jsp_3_1/) 2020年3月31日発行 {{< analytics_a href="/pdf/jsp/3/1/jsp3_1.pdf" text="[PDF]" >}}
 
 
 <script type="application/ld+json">
