@@ -29,7 +29,7 @@ URL = "/analytical_mechanics"
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
-<a href="/pdf/books/analytical_mechanics.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/books/analytical_mechanics.pdf')">PDF版ダウンロード</a>
+{{< analytics_btn href="/pdf/books/analytical_mechanics.pdf" text="PDF版ダウンロード" >}}
 
 
 ### 目次

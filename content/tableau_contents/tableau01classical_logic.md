@@ -46,7 +46,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
-<a href="/pdf/books/tableau/tableau01classical_logic.pdf" class="btn btn-action" onclick="ga('send', 'pageview', '/pdf/books/tableau/tableau01classical_logic.pdf')">PDF版ダウンロード</a>
+{{< analytics_btn href="/pdf/books/tableau/tableau01classical_logic.pdf" text="PDF版ダウンロード" >}}
 
 
 ### 目次
