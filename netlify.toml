@@ -50,6 +50,7 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     X-Frame-Options = "DENY" #iframe埋め込みの際はコメントアウト。その代わりContent-Security-Policyのframe-ancestorsで制御。
     X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
     Content-Security-Policy = "form-action 'none'; frame-ancestors 'none';" # formやframeを用いる際はここで制御
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
