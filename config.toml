@@ -35,6 +35,10 @@ publishDir = "public"
     name = "News"
     url = "/news/"
     weight = 5
+[[menu.main]]
+    name = "Tokyo Academic Review of Books"
+    url = "https://tarb.yamanami.tokyo/"
+    weight = 6
 
 #[params.disqus]
 #    site = "hugo-initio-site.disqus.com"
