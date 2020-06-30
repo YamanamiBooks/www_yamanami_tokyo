@@ -20,7 +20,7 @@ TARBは
 ### 発行機関
 **Editorial Board of Tokyo Academic Review of Books**
 
-tarb[at]yamanami.tokyo
+tarb.journal[at]gmail.com
 
 〒466-8673 愛知県名古屋市昭和区山里町18 南山大学社会倫理研究所 横路佳幸宛
 
