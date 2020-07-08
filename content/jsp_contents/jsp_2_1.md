@@ -34,6 +34,8 @@ Print edition: ISSN 2434-2335
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
+本書籍はCC BY 4.0で公開しており、PDF版はご自由にダウンロードいただけます。
+
 {{< analytics_btn href="/pdf/jsp/2/1/jsp2_1.pdf" text="PDF版ダウンロード" >}}
 
 
