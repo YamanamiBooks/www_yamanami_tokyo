@@ -34,7 +34,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 * 文字だけで色々言われても分からないので、図を使って論理を勉強したい。
 * 実際に論理が身についているか不安なので、たくさんの問題を解いて理解度を確認したい。
 
-### ダウンロード・購入
+### ダウンロード（オープンアクセス）・購入
 
 初版 2019年5月31日 発行
 
@@ -45,6 +45,8 @@ URL = "/tableau_contents/tableau01classical_logic"
 * [三省堂書店 各店 （店舗一覧） ※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
+
+本書籍はCC BY 4.0で公開しており、PDF版はご自由にダウンロードいただけます。
 
 {{< analytics_btn href="/pdf/books/tableau/tableau01classical_logic.pdf" text="PDF版ダウンロード" >}}
 
