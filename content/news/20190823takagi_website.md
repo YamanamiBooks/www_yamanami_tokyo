@@ -9,7 +9,7 @@ title = "『形式論理探求 第1巻 古典論理のタブロー』著者 高�
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px; text-align: center;">
 <p></p>
 <p>高木翼氏 webサイト</p>
-<p><a href=https://ousia.web.fc2.com/> https://ousia.web.fc2.com/ </a></p>
+<p><a href=https://tt-logic.github.io/> https://tt-logic.github.io/ </a></p>
 </div>
 
 論理学に関しては[『形式論理探求 第1巻 古典論理のタブロー』](/tableau_contents/tableau01classical_logic/)のweb版と言えるものが掲載されています。スマホ等でも読みやすく、古典論理初学者にとって大変便利なサイトです。
