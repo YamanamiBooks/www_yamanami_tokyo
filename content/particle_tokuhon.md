@@ -10,7 +10,7 @@ URL = "/particle_tokuhon"
 
 
 <p style="text-align: center;"><img src="/images/recentWorks/particleTokuhonBanner_ol.svg" alt="素粒子読本 樋口正人著 banner" width=50%></p>
-<p style="text-align: center;">小林悌二，齋藤曉 編</p>
+<p style="text-align: center; font-size: 1.5rem;">小林悌二，齋藤曉 編</p>
 
 
 ### 内容紹介
