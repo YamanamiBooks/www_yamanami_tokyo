@@ -1,33 +1,37 @@
 +++
-date = "2020-06-24T00:00:00+09:00"
+date = "2020-09-23T22:00:00+09:00"
 title = "最新情報 Latest News"
 weight = 2
 +++
 
-**Tokyo Academic Review of Books 創刊**
+**樋口正人著『素粒子読本』発売**
 
-学術誌の書評を専門とするオンラインジャーナル *Tokyo Academic Review of Books* (ISSN：2435-5712；以下、TARBとする) を2020年6月24日に創刊いたしました。
+樋口正人著『素粒子読本』（小林悌二，齋藤曉 編）を2020年10月10日に発売開始します。
 
-TARBは
-* 「学術書の書評をより充実したものに」
-* 「初学者へのガイドとなるようなものを」
-を理念に掲げる新しい書評専門誌です。各記事は、専門家による要約・コメント・文献案内を中心として構成され、書評としては比較的長文の詳しい解説を行うことを旨としています。
+### 内容紹介
 
-詳細は[Mission](https://tarb.yamanami.tokyo/p/mission.html)と[About](https://tarb.yamanami.tokyo/p/about.html)をご参照ください。
+
+本書の特徴は，物質を構成する「素」の素を追求したい若い人達が，自然界の基礎にある階層性の探求がミクロ世界の基礎構造の解明へと展開していく現代素粒子物理学の流れの中へ，自然な構成を通して導かれるよう工夫されていることである。基礎となる電磁気学，相対性理論，量子理論の主要な骨格が前半で導入され，後半の主テーマである素粒子構造の追及への実験・理論の取り組みと，クォークを基とする美しい対称性がどのように探究され，構成されるかを有機的な展開で示される。必要な範囲の数学処方が丁寧に説明され，随所に著者長年の教育工夫が反映されている。読本という読みやすい形で素粒子物理学の世界を見通すことのできる本書は研究を志す人達のみならず，この世界の概観を知りたい多くの人達に大きなガイド役となるに違いない。
 
 <!--more-->
-### 公式サイト
-[https://tarb.yamanami.tokyo/](https://tarb.yamanami.tokyo/)
 
-### 発行機関
-**Editorial Board of Tokyo Academic Review of Books**
 
-tarb[at]yamanami.tokyo
+### ダウンロード（オープンアクセス）・購入
 
-〒466-8673 愛知県名古屋市昭和区山里町18 南山大学社会倫理研究所 横路佳幸宛
+初版 2020年10月10日 発行
 
-（お問合せ等はメールでいただければ幸いです。その際、[at]を@に変更してください）
+製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624055）
 
-### ライセンス
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+* [Amazon](https://www.amazon.co.jp/dp/4909624058/)
+* 楽天ブックス（準備中）
+* [三省堂書店 各店 （店舗一覧）（準備中）](https://www.books-sanseido.co.jp/shop/)
 
+発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
+
+
+この書籍は<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下で提供しています。<br>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+PDF版は無償で公開しております。
+
+詳しくは[こちら](/particle_tokuhon)をご覧ください。
