@@ -2,4 +2,4 @@
 {{- if not $href -}}
   {{ errorf "missing value for param 'href': ％s" .Position }}
 {{- end -}}
-<a href={{ $href }} onclick={{printf "gtag('event', 'page_view', {page_path: '%s'})" $href | safeJS}}>{{.Get "text"}}</a>
+<a href={{ $href }} onclick={{printf "gtag('event', 'page_view', {'page_path': '%s'});" $href | safeJS}}>{{.Get "text"}}</a>
