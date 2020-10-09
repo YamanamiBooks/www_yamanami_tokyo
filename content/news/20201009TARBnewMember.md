@@ -1,5 +1,5 @@
 +++
-date = "2020-10-9T20:00:00+09:00"
+date = "2020-10-09T20:00:00+09:00"
 title = "Tokyo Academic Review of Books 新編集委員"
 +++
 
