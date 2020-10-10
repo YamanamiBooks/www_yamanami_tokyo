@@ -21,9 +21,9 @@ title = "樋口正人著『素粒子読本』発売"
 
 製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624055）
 
-* [Amazon](https://www.amazon.co.jp/dp/4909624058/)
-* 楽天ブックス（準備中）
-* [三省堂書店 各店 （店舗一覧）（準備中）](https://www.books-sanseido.co.jp/shop/)
+* [Amazon](https://www.amazon.co.jp/dp/4909624031/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/16183410/)
+* [三省堂書店 各店 （店舗一覧） ※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)
 
 発売はAmazon・楽天ブックス・三省堂書店のみとなっております。一般の書店ではお買い求めいただけません。
 
