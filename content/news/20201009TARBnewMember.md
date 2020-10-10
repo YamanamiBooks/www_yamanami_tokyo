@@ -17,6 +17,10 @@ Tokyo Academic Review of Books (TARB)編集委員会に新しいメンバーが�
 「「被災地支援」から「地域活動」へ－－－宮城県亘理郡亘理町における復興まちづくりの主体」（所収：吉原直樹／山川充夫／清水　亮／松本行真 編『東日本大震災と 〈自立・支援〉の生活記録』（立花出版））</br>
 <a href=https://rikka-press.jp/jiritsushien/>https://rikka-press.jp/jiritsushien/</a>
 </p>
+<p>【webサイト】
+個人webサイト <a href=https://mochi815.wixsite.com/sociology>https://mochi815.wixsite.com/sociology</a></br>
+reserachmap <a href=https://researchmap.jp/mochizuki-miki>https://researchmap.jp/mochizuki-miki</a>
+</p>
 </div>
 
 [Editorial Board メンバー一覧](https://tarb.yamanami.tokyo/editorialboard)
