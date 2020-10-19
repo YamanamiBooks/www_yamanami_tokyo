@@ -23,6 +23,6 @@ reserachmap <a href=https://researchmap.jp/mochizuki-miki>https://researchmap.jp
 </p>
 </div>
 
-[Editorial Board メンバー一覧](https://tarb.yamanami.tokyo/editorialboard)
+[Editorial Board メンバー一覧](https://tarb.yamanami.tokyo/p/about.html)
 
 今後ともTARBをよろしくお願いいたします。
