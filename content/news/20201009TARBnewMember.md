@@ -12,7 +12,7 @@ Tokyo Academic Review of Books (TARB)編集委員会に新しいメンバーが�
 （日本学術振興会 ／ 上智大学）</p>
 <p>【専門】</br>地域社会学</p>
 <p>【主な著書】</br>
-望月美希著『震災復興と生きがいの社会学』（お茶の水書房）</br>
+望月美希著『震災復興と生きがいの社会学』（御茶の水書房）</br>
 <a href=http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8>http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8</a></br></br>
 「震災復興における地域コミュニティの問い直し」（所収：伊豫谷登士翁／テッサ・モーリス = スズキ／吉原直樹 編『応答する＜移動と場所＞』（ハーベスト社））</br>
 <a href=http://www.harvest-sha.co.jp/books/0078mimei.html>http://www.harvest-sha.co.jp/books/0078mimei.html</a></br></br>

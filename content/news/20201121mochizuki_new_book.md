@@ -8,7 +8,7 @@ title = "TARB編集委員 望月氏 新刊"
 <p style="text-align: center;">
 望月美希著</br>
 『震災復興と生きがいの社会学：〈私的なる問題〉から捉える地域社会のこれから』</br>
-お茶の水書房</br>
+御茶の水書房</br>
 <a href=http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8>http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8</a>
 </p>
 
