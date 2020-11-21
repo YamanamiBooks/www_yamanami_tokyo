@@ -12,12 +12,12 @@ Tokyo Academic Review of Books (TARB)編集委員会に新しいメンバーが�
 （日本学術振興会 ／ 上智大学）</p>
 <p>【専門】</br>地域社会学</p>
 <p>【主な著書】</br>
+望月美希著『震災復興と生きがいの社会学』（お茶の水書房）</br>
+<a href=http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8>http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8</a></br></br>
 「震災復興における地域コミュニティの問い直し」（所収：伊豫谷登士翁／テッサ・モーリス = スズキ／吉原直樹 編『応答する＜移動と場所＞』（ハーベスト社））</br>
 <a href=http://www.harvest-sha.co.jp/books/0078mimei.html>http://www.harvest-sha.co.jp/books/0078mimei.html</a></br></br>
 「「被災地支援」から「地域活動」へ－－－宮城県亘理郡亘理町における復興まちづくりの主体」（所収：吉原直樹／山川充夫／清水　亮／松本行真 編『東日本大震災と 〈自立・支援〉の生活記録』（立花出版））</br>
-<a href=https://rikka-press.jp/jiritsushien/>https://rikka-press.jp/jiritsushien/</a></br></br>
-望月美希著『震災復興と生きがいの社会学』（お茶の水書房））</br>
-<a href=http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8>http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8</a>
+<a href=https://rikka-press.jp/jiritsushien/>https://rikka-press.jp/jiritsushien/</a>
 </p>
 <p>【webサイト】</br>
 個人webサイト <a href=https://mochi815.wixsite.com/sociology>https://mochi815.wixsite.com/sociology</a></br>

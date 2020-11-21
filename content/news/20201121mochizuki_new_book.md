@@ -7,9 +7,10 @@ title = "TARB編集委員 望月氏 新刊"
 
 <div style="text-align: center;">
 
-震災復興と生きがいの社会学
-〈私的なる問題〉から捉える地域社会のこれから
 望月美希著
+
+『震災復興と生きがいの社会学：〈私的なる問題〉から捉える地域社会のこれから』
+
 お茶の水書房
 
 [http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8](http://rr2.ochanomizushobo.co.jp/products/978-4-275-02132-8)
