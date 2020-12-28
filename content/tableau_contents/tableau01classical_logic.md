@@ -22,7 +22,9 @@ URL = "/tableau_contents/tableau01classical_logic"
 <H4 style="text-align: center;">
 高木 翼 著
 </H4>
-
+<div style="text-align: center;">
+<a href="https://doi.org/10.50856/978-4-909624024">https://doi.org/10.50856/978-4-909624024</a>
+</div>
 
 ### 内容紹介
 

@@ -10,6 +10,9 @@ URL = "/analytical_mechanics"
 
 
 <p style="text-align: center;"><img src="/images/recentWorks/analyticalBanner_ol.svg" alt="解析力学 細谷曉夫著 banner" width=50%></p>
+<div style="text-align: center;">
+<a href="https://doi.org/10.50856/978-4-909624031">https://doi.org/10.50856/978-4-909624031</a>
+</div>
 
 
 ### 内容紹介
