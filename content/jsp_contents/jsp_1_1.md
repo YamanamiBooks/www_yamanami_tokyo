@@ -44,6 +44,8 @@ Print edition: ISSN 2434-2335
 飯澤 正登実 （やまなみ書房）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-3735-0616
 
+[https://doi.org/10.50857/jsp1.1.1](https://doi.org/10.50857/jsp1.1.1)
+
 Journal of Science and Philosophy ( J. Sci. Philos. または JSP ) の制作・発売を担当させていただいているやまなみ書房の飯澤です。編集委員会ではない第三者の立場から本誌をご紹介させて戴きます。
 
 {{< analytics_btn href="/pdf/jsp/1/1/1_1_01iizawa.pdf" text="個別PDF ダウンロード" >}}
@@ -51,6 +53,9 @@ Journal of Science and Philosophy ( J. Sci. Philos. または JSP ) の制作・
 #### ハーバート・スペンサーにおける個人主義思想の再検討
 久野 真隆 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-3771-0474
+
+[https://doi.org/10.50857/jsp1.1.6](https://doi.org/10.50857/jsp1.1.6)
+
 
 ※本文は日本語です
 
@@ -66,6 +71,8 @@ First, this paper will give an outline of a conventional explanation of Spencer'
 杉尾 一 （上智大学 文学部 哲学科）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-6881-900X
 
+[https://doi.org/10.50857/jsp1.1.25](https://doi.org/10.50857/jsp1.1.25)
+
 ※本文は日本語です
 
 This study was performed to adjust the difference between Einstein's metaphysics and Bohr's epistemology.
@@ -80,6 +87,8 @@ As a result, this paper shows that Einstein's metaphysics and Bohr's epistemolog
 #### 時を巡る思考の散策《フィールドワーク》
 脇本 佑紀 （ニュートンワークス株式会社）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-6455-8642
+
+[https://doi.org/10.50857/jsp1.1.42](https://doi.org/10.50857/jsp1.1.42)
 
 この文書は時に関する歴史散策/思考を筆の随に遊ばせる、エッセイのようなものであり、随筆であり、試みである。
 主に物理学を、副に哲学を軸とする。詩と神話にも触れる。随所に稚拙な理解/散漫な論理展開が見られるが、アカデミック・ソフィスティケーションの萌芽として、ご指導ご鞭撻のほどを賜りたく献じるものである。

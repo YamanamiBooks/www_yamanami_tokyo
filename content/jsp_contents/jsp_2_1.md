@@ -43,6 +43,8 @@ Print edition: ISSN 2434-2335
 杉尾 一 （上智大学 文学部 哲学科 / JSP 編集委員）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-6881-900X
 
+[https://doi.org/10.50857/jsp2.1.1](https://doi.org/10.50857/jsp2.1.1)
+
 昨年、やまなみ書房から Journal of Science and Philosophy (JSP) の第1巻 第1号 (創刊号) を刊行した。幸いなことに多方面から反響があり、今回の第2巻第1号では、投稿者の中から若き俊英3名（高木翼氏（論理学）、横路佳幸氏（分析哲学）、山口真子氏（科学哲学））の論文を厳選し、掲載させて頂くこととなった。本稿では、各氏の論文について簡単に紹介したい。
 
 {{< analytics_btn href="/pdf/jsp/2/1/2_1_01sugio.pdf" text="個別PDF ダウンロード" >}}
@@ -50,6 +52,8 @@ Print edition: ISSN 2434-2335
 #### K4タブローによる妥当性判定と濾過法
 高木 翼 （法政大学 文学部 哲学科）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-9890-1015
+
+[https://doi.org/10.50857/jsp2.1.4](https://doi.org/10.50857/jsp2.1.4)
 
 ※本文は日本語です
 
@@ -60,6 +64,8 @@ One of the difficulties of modal logic K4 is that the tableau may be infinitely 
 #### アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——
 横路 佳幸 （慶應義塾大学大学院 文学研究科 哲学・倫理学専攻）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-7501-5384
+
+[https://doi.org/10.50857/jsp2.1.24](https://doi.org/10.50857/jsp2.1.24)
 
 {{< analytics_btn href="/pdf/jsp/2/1/2_1_03yokoro.pdf" text="個別PDF ダウンロード" >}}
 
@@ -86,6 +92,8 @@ http://digital-archives.sophia.ac.jp/repository/view/repository/20171114017
 #### 知識の獲得と観察の理論負荷性
 山口 真子 （上智大学 文学部 哲学科）  
 ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0001-6504-6753
+
+[https://doi.org/10.50857/jsp2.1.37](https://doi.org/10.50857/jsp2.1.37)
 
 この論文では、アメリカの科学哲学者ノーウッド・ハンソンが主張した「観察の理論負荷性」を取り挙げていく。これは、「何を現象として観察できるかということは、前提となる理論が決定する」ということを示している。この主張は、1958年に出版された『科学的発見のパターン』でなされた。この本が出版された20世紀半ば、科学哲学の分野では、論理実証主義に影響を受けた研究やポパーの反証主義に基づいた研究が主流であった。これは、科学哲学の研究が、科学史とはあまり関わらない形で理論中心に展開されてきたことを示している。しかし、ハンソンの登場によって、科学哲学の研究は変わることになる。それは、科学哲学の研究において、科学史を考慮する研究へと変わったことだ。ここから、ハンソンが示したような科学哲学の立場は「新科学哲学」と呼ばれている。
 
