@@ -310,7 +310,7 @@ URL = "/particle_tokuhon"
 ### 初版への追補・誤植の訂正
 #### ［追補］
 
-* p.16 ハッブル法則の現行呼称について
+##### p.16 ハッブル法則の現行呼称について
 
 1927年に初めて宇宙膨張を提唱し膨張速度の予想値を求め，目立たない雑誌の論文<sup>*</sup>で示していたGeorges H.J.E. Lumaitreの功績を称えて，<a href="https://astronomy2018.univie.ac.at/">XXX IAU General Assembly（第30回国際天文学連合総会）（2018年8月20日～31日）</a>でHubble Law（ハッブル法則）をHubble–Lemaître Law（ハッブル−ルメートル法則）に改称することが提案<a href="https://www.iau.org/static/archives/announcements/pdf/ann18029e.pdf">[決議案PDF]</a>され，<a href="https://www.iau.org/news/pressreleases/detail/iau1812/">2018年10月26日に正式決定した</a>。<a href="https://www.mi-vote.com/files/iau/results.pdf">[投票結果PDF]</a>
 
