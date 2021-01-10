@@ -312,7 +312,7 @@ URL = "/particle_tokuhon"
 
 ##### p.16 ハッブル法則の現行呼称について
 
-1927年に初めて宇宙膨張を提唱し膨張速度の予想値を求め，目立たない雑誌の論文<sup>*</sup>で示していたGeorges H.J.E. Lumaitreの功績を称えて，<a href="https://astronomy2018.univie.ac.at/">XXX IAU General Assembly（第30回国際天文学連合総会）（2018年8月20日～31日）</a>でHubble Law（ハッブル法則）をHubble–Lemaître Law（ハッブル−ルメートル法則）に改称することが提案<a href="https://www.iau.org/static/archives/announcements/pdf/ann18029e.pdf">[決議案PDF]</a>され，<a href="https://www.iau.org/news/pressreleases/detail/iau1812/">2018年10月26日に正式決定した</a>。<a href="https://www.mi-vote.com/files/iau/results.pdf">[投票結果PDF]</a>
+1927年に初めて宇宙膨張を提唱し膨張速度の予想値を求め，目立たない雑誌の論文<sup>*</sup>で示していたGeorges H.J.É. Lemaîtreの功績を称えて，<a href="https://astronomy2018.univie.ac.at/">XXX IAU General Assembly（第30回国際天文学連合総会）（2018年8月20日～31日）</a>でHubble Law（ハッブル法則）をHubble–Lemaître Law（ハッブル−ルメートル法則）に改称することが提案<a href="https://www.iau.org/static/archives/announcements/pdf/ann18029e.pdf">[決議案PDF]</a>され，<a href="https://www.iau.org/news/pressreleases/detail/iau1812/">2018年10月26日に正式決定した</a>。<a href="https://www.mi-vote.com/files/iau/results.pdf">[投票結果PDF]</a>
 
 <sup>*</sup> <a href="http://articles.adsabs.harvard.edu/full/1927ASSB...47...49L">Lemaître, G. (1927). “Un univers homogène de masse constante et de rayon croissant, rendant compte de la vitesse radiale des nébuleuses extra-galactiques.” <i>Annales de la Société Scientifique de Bruxelles</i> <b>A47</b>(47): 49–59.</a><br/>
 英訳：<a href="https://link.springer.com/article/10.1007/s10714-013-1548-3">Lemaître, G. (2013). “Republication of: A homogeneous universe of constant mass and increasing radius accounting for the radial velocity of extra-galactic nebulae.” <i>General Relativity and Gravitation</i> <b>45</b>(8): 1635–1646.</a>
