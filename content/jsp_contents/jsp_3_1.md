@@ -51,6 +51,8 @@ Japan, perhaps unsurprisingly, has the lowest ratio of women in academia among t
 
 {{< analytics_btn href="/pdf/jsp/3/1/3_1_01toyoizumi.pdf" text="個別PDF ダウンロード" >}}
 
+Errata DOI:[https://doi.org/10.50857/jsp3.1.1.errata](https://doi.org/10.50857/jsp3.1.1.errata)
+
 {{< analytics_btn href="/pdf/jsp/3/1/3errata_1_01_Toyoizumi.pdf" text="Errata ダウンロード" >}}
 
 
