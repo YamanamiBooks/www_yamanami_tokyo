@@ -319,12 +319,42 @@ URL = "/particle_tokuhon"
 
 #### ［誤植の訂正］
 
+* p.62   チャーム・メソンの行 $\bar{D}^0=\bar{c}d$ → $\bar{D}^0=\bar{c}u$
+* p.62   チャーム・バリオンの行 $Λ_{c}^{0}=udc$ → $Λ_{c}^{+}=udc$
 * p.150  下から9,8,7,6,5行目 デー → ディー
 * p.155  下から3行目 リヴィングストンM.S.(Livingston) → リヴィングストン(M.S.Livingston)
+* p.236  図11.2(b)バリオン スピン3/2 $I_{3}$の目盛欠落の修正 ![図11.2(b)右図 rev2](/images/particle_tokuhon/fig11_2_rev2.png)
 * p.270  上から5行目 ワインバーグー → ワインバーグ
 * p.271  脚注（2箇所） et. al. → et al.
+* p.280  下から2行目 $(dsc)$である$\Sigma_{c}$ → $(ddc)$である$\Sigma_{c}$
+* p.281  上から7行目 $\Sigma_c$の組成 $dsc$ → $ddc$
+* p.291  式(12.41) $B^{0}(b\bar{d}), \bar{B}^{0}(\bar{b}d)$ → $B^{0}(d\bar{b}), \bar{B}^{0}(\bar{d}b)$
 * p.294  下から2行目 2-jetイベントれとなるが → 2-jetイベントとなるが
+* p.300  表12.1 最初の行 $\nu_{2}, \nu_{\mu}, \nu_{\tau}$ → $\nu_{e}, \nu_{\mu}, \nu_{\tau}$
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+	processEscapes: true,
+    tags: 'ams',
+    macros: {
+      ssqrt: ['\\sqrt{\\smash[b]{\\mathstrut #1}}', 1],
+      tcdegree: ['\\unicode{xb0}'],
+      tccelsius: ['\\unicode{x2103}'],
+      tcperthousand: ['\\unicode{x2030}'],
+      tcmu: ['\\unicode{x3bc}'],
+      tcohm: ['\\unicode{x3a9}']
+    }
+  },
+  chtml: {
+    matchFontHeight: false,
+    displayAlign: "left",
+    displayIndent: "2em"
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <script type="application/ld+json">
 {
