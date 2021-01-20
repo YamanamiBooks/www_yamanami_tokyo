@@ -323,7 +323,7 @@ URL = "/particle_tokuhon"
 * p.62   チャーム・バリオンの行 $Λ_{c}^{0}=udc$ → $Λ_{c}^{+}=udc$
 * p.150  下から9,8,7,6,5行目 デー → ディー
 * p.155  下から3行目 リヴィングストンM.S.(Livingston) → リヴィングストン(M.S.Livingston)
-* p.236  図11.2(b)バリオン （右図）スピン3/2 $I_{3}$の目盛欠落の修正 （左図）$\Lambda^{o}, \Sigma^{o}$のクォーク構成 $uus$ → $dus$，$\Sigma^{+}$のクォーク構成 $uds$ → $uus$ ![図11.2(b)右図 rev2](/images/particle_tokuhon/fig11_2_rev2.png)
+* p.236  図11.2(b)バリオン （右図）スピン3/2 $I_{3}$の目盛欠落の修正 （左図）$\Lambda^{0}, \Sigma^{0}$のクォーク構成 $uus$ → $dus$，$\Sigma^{+}$のクォーク構成 $uds$ → $uus$ ![図11.2(b)右図 rev2](/images/particle_tokuhon/fig11_2_rev2.png)
 * p.270  上から5行目 ワインバーグー → ワインバーグ
 * p.271  脚注（2箇所） et. al. → et al.
 * p.280  下から2行目 $(dsc)$である$\Sigma_{c}$ → $(ddc)$である$\Sigma_{c}$
