@@ -10,7 +10,7 @@ languageCode = "en-us"
 
 <p style="text-align: right">
 Online edition: ISSN 2434-2327<br>
-Print edition: ISSN 2434-2335
+Print edition: ISSN 2434-2335<br>
 <a href="https://doi.org/10.50857/jsp">https://doi.org/10.50857/jsp</a>
 </p>
 <p style="text-align: center">
