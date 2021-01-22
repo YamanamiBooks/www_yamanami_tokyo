@@ -10,6 +10,7 @@ URL = "/jsp/jsp_jp"
 <p style="text-align: right">
 Online edition: ISSN 2434-2327<br>
 Print edition: ISSN 2434-2335
+<a href="https://doi.org/10.50857/jsp">https://doi.org/10.50857/jsp</a>
 </p>
 
 <p style="text-align: center">
