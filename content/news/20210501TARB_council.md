@@ -3,9 +3,11 @@ date = "2021-05-01T17:00:00+09:00"
 title = "TARB 評議員就任"
 +++
 
-学術誌の書評を専門とするオンラインジャーナル *Tokyo Academic Review of Books* (ISSN：2435-5712；以下、TARBとする) にて、7名の方が評議員に就任されました。
+学術誌の書評を専門とするオンラインジャーナル *Tokyo Academic Review of Books* (ISSN：2435-5712；以下、TARBとする) にて、9名の方が評議員に就任されました。
 
 任期：2021年4月〜2022年3月（50音順）
+* 天本貴之（慶應義塾大学）
+* 大畑浩志（大阪市立大学）
 * 小林知恵（北海道大学）
 * 清水亮（日本学術振興会 ／ 筑波大学）
 * 中井智也（Centre de Recherche en Neuroscience de Lyon）
