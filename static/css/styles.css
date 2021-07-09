@@ -199,6 +199,7 @@ a {
   color: #bd1550;
   word-wrap : break-word;
   overflow-wrap : break-word;
+  text-decoration : none;
 }
 a:hover {
   color: #e93675;
