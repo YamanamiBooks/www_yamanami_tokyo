@@ -5,7 +5,7 @@ title = "齋藤曉『雑念集「これ」』(Liberality Series)"
 
 やまなみ書房と提携している合同会社リベラリティから、新刊がでます。
 
-齋藤曉『雑念集「これ」』
+齋藤曉『雑念集「これ」』 (Liberality Series)
 
 初版オンデマンド版 2022年2月22日 発行
 
@@ -21,4 +21,4 @@ ISBN: 978-4-909624-06-2
 
 本書はやまなみ書房のシステムを用いて発売しております。
 
-刊行情報に関する詳細は[公式サイト (https://www.liberality2017.academy/%E5%87%BA%E7%89%88/)](https://www.liberality2017.academy/%E5%87%BA%E7%89%88/)をご覧ください。
+刊行情報に関する詳細は[公式サイト ( https://www.liberality2017.academy/%E5%87%BA%E7%89%88/ )](https://www.liberality2017.academy/%E5%87%BA%E7%89%88/)をご覧ください。
