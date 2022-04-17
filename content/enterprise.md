@@ -9,7 +9,7 @@ URL = "/enterprise"
 |:-----:|----|
 | 屋号 | やまなみ書房 |
 | 所在地 | 〒156-0043 東京都世田谷区松原5丁目22番地6番 リベラリティ内 |
-| 電話 | 03-6869-4549 (10:00–17:00, お問い合わせはメールでいただければ幸いです)|
+| 電話 | 050-3479-9624 (10:00–17:00, お問い合わせはメールでいただければ幸いです)|
 | E-mail | books@yamanami.tokyo |
 | 代表者 | 飯澤 正登実 |
 | 代表者ORCID | ![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp; https://orcid.org/0000-0002-3735-0616 |
