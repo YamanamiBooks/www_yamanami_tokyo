@@ -3,7 +3,7 @@ publish = "public"
 #command = "hugo" #サイト上で個別に指定
 
 [context.production.environment]
-HUGO_VERSION = "0.100.1 "
+HUGO_VERSION = "0.100.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 RUBY_VERSION = "2.7.2" #build時に2.3.6をinstallし始める問題に対応
@@ -15,7 +15,7 @@ PHP_VERSION = "7.4"
 command = "hugo --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.100.1 "
+HUGO_VERSION = "0.100.1"
 HUGO_ENV = "production"
 RUBY_VERSION = "2.7.2" #build時に2.3.6をinstallし始める問題に対応
 NODE_VERSION = "16"
@@ -26,7 +26,7 @@ PHP_VERSION = "7.4"
 command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.100.1 "
+HUGO_VERSION = "0.100.1"
 RUBY_VERSION = "2.7.2" #build時に2.3.6をinstallし始める問題に対応
 NODE_VERSION = "16"
 GO_VERSION = "1.16"
@@ -36,7 +36,7 @@ PHP_VERSION = "7.4"
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.100.1 "
+HUGO_VERSION = "0.100.1"
 RUBY_VERSION = "2.7.2" #build時に2.3.6をinstallし始める問題に対応
 NODE_VERSION = "16"
 GO_VERSION = "1.16"
