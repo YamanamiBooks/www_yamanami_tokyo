@@ -321,7 +321,7 @@ URL = "/particle_tokuhon"
 
 * p.12   脚注2 §3.3.2の脚注参照。 → §3.3.2 表3.3中の注記参照。
 * p.35   上から1行目 $\hbar / 2 \pi$ → $\hbar$
-* p.40   式(2.28)の上の行 $\hbar = 6.6 \times 10^{-25}\;\mathrm{MeV}\cdot\mathrm{s}$ → $\hbar = 6.6 \times 10^{-25}\;\mathrm{GeV}\cdot\mathrm{s}$
+* p.40   式(2.28)の上の行 $\hbar = 6.6 \times 10^{-25} \mathrm{MeV}\cdot\mathrm{s}$ → $\hbar = 6.6 \times 10^{-25} \mathrm{GeV}\cdot\mathrm{s}$
 * p.62   チャーム・メソンの行 $\bar{D}^0=\bar{c}d$ → $\bar{D}^0=\bar{c}u$
 * p.62   チャーム・バリオンの行 $Λ_{c}^{0}=udc$ → $Λ_{c}^{+}=udc$
 * p.150  下から9,8,7,6,5行目 デー → ディー
