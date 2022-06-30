@@ -3,7 +3,7 @@ date = "2022-07-01T03:00:00+09:00"
 title = "TARB評議員 清水亮氏近刊"
 +++
 
-[*Tokyo Academic Review of Books*](https://tarb.yamanami.tokyo/) 評議員の清水亮氏（日本学術振興会／早稲田大学）による新刊が出版されました。
+[*Tokyo Academic Review of Books*](https://tarb.yamanami.tokyo/) 評議員の清水亮氏（日本学術振興会 ／ 早稲田大学）による新刊が出版されました。
 
 <p style="text-align: center;">
 清水 亮 著</br>
