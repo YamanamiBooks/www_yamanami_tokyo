@@ -12,7 +12,7 @@ title = "TARB評議員 清水亮氏近刊"
 <a href=https://www.shin-yo-sha.co.jp/book/b602412.html>https://www.shin-yo-sha.co.jp/book/b602412.html</a>
 </p>
 
-保阪正康氏による評がいかに掲載されております。
+保阪正康氏による評が以下に掲載されております。
 
 <a href=https://book.asahi.com/article/14636798>https://book.asahi.com/article/14636798</a>
 
