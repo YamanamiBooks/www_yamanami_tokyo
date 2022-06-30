@@ -8,7 +8,7 @@ title = "TARB評議員 清水亮氏近刊"
 <p style="text-align: center;">
 清水 亮 著</br>
 『「予科練」戦友会の社会学――戦争の記憶のかたち』</br>
-みずき書林</br>
+新曜社</br>
 <a href=https://www.shin-yo-sha.co.jp/book/b602412.html>https://www.shin-yo-sha.co.jp/book/b602412.html</a>
 </p>
 
