@@ -8,27 +8,27 @@ title = "TARB 新編集委員会・新評議員会 発足"
 ### 新編集委員会 メンバー
 2022年7月1日–
 
-#### Editor-in-Chief
+##### Editor-in-Chief
 
 槇原彩 （成蹊大学）
 
-#### Editor-in-Chief
+##### Editor-in-Chief
 
-吉田駿太朗 （日本学術振興会／早稲田大学）
+吉田駿太朗 （日本学術振興会 ／ 早稲田大学）
 
-#### Associate Editor, Technical Advisor
+##### Associate Editor, Technical Advisor
 
 飯澤 正登実 （やまなみ書房）
 
-#### Associate Editor
+##### Associate Editor
 
 望月 美希 （静岡大学）
 
-#### Associate Editor
+##### Associate Editor
 
 藤田翔 （名古屋大学）
 
-#### Associate Editor
+##### Associate Editor
 
 佐野直哉 （上野学園大学・同短期大学）
 
