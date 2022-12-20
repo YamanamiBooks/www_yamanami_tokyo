@@ -9,7 +9,7 @@ title = "高木翼氏 新論文がACM TOCLに掲載されました"
 <a href="https://dl.acm.org/doi/10.1145/3576926">Takagi, T.<br/>Semantic Analysis of a Linear Temporal Extension of Quantum Logic and Its Dynamic Aspect.</br><i>ACM Trans. Comput. Log.</i> (2022).<br/>https://doi.org/10.1145/3576926</a>
 </div>
 
-本論文は、量子論理の基づく線形時相論理として「線形時相量子論理」(Linear Temporal Quantum Logic, LTQL)を提案し、さらにLTQLに測定オペレータを追加した「動的線形時相論理」(Dynamic Linear Temporal Quantum Logic, DLTQL)を提案しています。本研究は、量子計算・量子システムを形式検証する論理の研究の嚆矢となると考えられ、今後の発展が期待されます。
+本論文は、量子論理の基づく線形時相論理として「線形時相量子論理」(Linear Temporal Quantum Logic, LTQL)を提案し、さらにLTQLに測定オペレータを追加した「動的線形時相量子論理」(Dynamic Linear Temporal Quantum Logic, DLTQL)を提案しています。本研究は、量子計算・量子システムを形式検証する論理の研究の嚆矢となると考えられ、今後の発展が期待されます。
 
 オープンアクセスとなっており、どなたでもご覧になれますので、是非ご一読ください。
 
