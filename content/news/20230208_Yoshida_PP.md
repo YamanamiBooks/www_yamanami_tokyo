@@ -7,7 +7,7 @@ title = "吉田駿太朗氏 新論文がPerformance Paradigmに掲載されま�
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px; text-align: center;">
 <a href="https://www.performanceparadigm.net/index.php/journal/article/view/261">
-Yoshida, S., &amp; Fukasawa, N. (2022).<br/> How Artificial Intelligence Can Shape Choreography: The Significance of Techno-Performance. <br/><i>Performance Paradigm</o>, <i>17</i>, 67–86. <br/>https://www.performanceparadigm.net/index.php/journal/article/view/261</a>
+Yoshida, S., &amp; Fukasawa, N. (2022).<br/> How Artificial Intelligence Can Shape Choreography: The Significance of Techno-Performance. <br/><i>Performance Paradigm</i>, <i>17</i>, 67–86. <br/>https://www.performanceparadigm.net/index.php/journal/article/view/261</a>
 </div>
 
 本論文は、AIを組み込んだ自動作曲システムを用いたダンス作品の創作過程に焦点を当てることで、アーティストとAIエンジニアの間にある緊張関係を分析し、テクノロジーと交渉する「人間」の間の不協和な関係を明らかにしています。本研究は、パフォーマンス研究者ジョン・マッケンジーの提唱するテクノ・パフォーマンスの研究を拡張しており、今後のAIを用いたダンスの実践研究の発展が期待されます。
