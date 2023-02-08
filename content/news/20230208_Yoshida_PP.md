@@ -3,7 +3,7 @@ date = "2023-02-08T10:00:00+09:00"
 title = "吉田駿太朗氏 新論文がPerformance Paradigmに掲載されました"
 +++
 
-[Tokyo Academic Review of Books](https://tarb.yamanami.tokyo/)編集委員長、[吉田駿太朗](https://researchmap.jp/shuntaroyoshida)氏の単著論文が*Performance Paradigm*誌に掲載されました。
+[Tokyo Academic Review of Books](https://tarb.yamanami.tokyo/)編集委員長、[吉田駿太朗](https://researchmap.jp/shuntaroyoshida)氏の原著論文が*Performance Paradigm*誌に掲載されました。
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px; text-align: center;">
 <a href="https://www.performanceparadigm.net/index.php/journal/article/view/261">
