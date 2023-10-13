@@ -22,10 +22,6 @@ books@yamanami.tokyo
     * ベルリン芸術科学高等研究センター，早稲田大学 学振PD
     * https://researchmap.jp/shuntaroyoshida
     * https://shuntaroyoshida14.wixsite.com/shun
-* Wan Chun Huang
-    * ニューヨーク大学
-    * https://as.nyu.edu/departments/eas/graduate/graduate-student-profiles.html
-    * https://scholar.google.com/citations?user=T0Cd4ScAAAAJ&hl=en
 
 ### 日時
 2023年10月27日（金） 19:00– (JST)
