@@ -13,8 +13,10 @@ title = "ワークショップ：海外で人文系研究者として生きる�
 books@yamanami.tokyo
 
 
-タイトル：海外で人文系研究者として生きるための実務——Marie Skłodowska-Curie Actions Postdoctoral Fellowshipsへの応募を例に—— </br>
-登壇者：吉田駿太朗（ベルリン芸術科学高等研究センター，早稲田大学 学振PD） https://researchmap.jp/shuntaroyoshida </br>
-日時：2023年10月27日（金） 19:00– (JST) </br>
-場所：オンライン
+<dl>
+<dt>タイトル：</dt><dd>海外で人文系研究者として生きるための実務——Marie Skłodowska-Curie Actions Postdoctoral Fellowshipsへの応募を例に—— </dd>
+<dt>登壇者：</dt><dd>吉田駿太朗（ベルリン芸術科学高等研究センター，早稲田大学 学振PD） https://researchmap.jp/shuntaroyoshida </dd>
+<dt>日時：</dt><dd>2023年10月27日（金） 19:00– (JST) </dd>
+<dt>場所：</dt><dd>オンライン</dd>
+</dl>
 
