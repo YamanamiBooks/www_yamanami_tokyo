@@ -16,7 +16,8 @@ books@yamanami.tokyo
 
 <dl>
 <dt>タイトル</dt><dd>海外で人文系研究者として生きるための実務——Marie Skłodowska-Curie Actions Postdoctoral Fellowshipsへの応募を例に—— </dd>
-<dt>登壇者</dt><dd>吉田駿太朗（ベルリン芸術科学高等研究センター，早稲田大学 学振PD） <a href="https://researchmap.jp/shuntaroyoshida">https://researchmap.jp/shuntaroyoshida</a> </dd>
+<dt>登壇者</dt><dd>吉田駿太朗 （ベルリン芸術科学高等研究センター，早稲田大学 学振PD）</dd><dd> <a href="https://researchmap.jp/shuntaroyoshida">https://researchmap.jp/shuntaroyoshida</a> </dd>
+<dd>Wan Chun Huang （ニューヨーク大学）</dd><dd><a href="https://as.nyu.edu/departments/eas/graduate/graduate-student-profiles.html">https://as.nyu.edu/departments/eas/graduate/graduate-student-profiles.html</a></dd><dd><a href="https://scholar.google.com/citations?user=T0Cd4ScAAAAJ&hl=en">https://scholar.google.com/citations?user=T0Cd4ScAAAAJ&hl=en</dd>
 <dt>日時</dt><dd>2023年10月27日（金） 19:00– (JST) </dd>
 <dt>場所</dt><dd>オンライン</dd>
 </dl>
