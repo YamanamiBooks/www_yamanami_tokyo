@@ -12,7 +12,7 @@ Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する�
 藤田翔 「TARB書評: 戸田山和久『科学的実在論を擁護する』名古屋大学出版会，2015年」 *Tokyo Academic Review of Books*, vol.22 (2021). https://doi.org/10.52509/tarb0022
  
 # 本講演のproceeding
-藤田翔, Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する』（評者 : 藤田翔）, *Proceedings of Commentary of TARB reviews*, vol.1 (2023). （DOIは後日掲載）
+藤田翔, Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する』（評者 : 藤田翔）, *Proceedings of Commentary of TARB reviews*, vol.1 (2023). https://doi.org/10.6084/m9.figshare.24718242.v1
 
 # 登壇者
 * 藤田 翔
