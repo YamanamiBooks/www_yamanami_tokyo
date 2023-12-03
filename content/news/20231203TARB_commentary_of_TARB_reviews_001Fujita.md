@@ -9,13 +9,10 @@ title = "書評解説イベント Commentary of TARB reviews: 戸田山和久『
 Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する』（評者：藤田翔）
  
 # 本講演で対象とする書評
-藤田翔 「TARB書評: 戸田山和久『科学的実在論を擁護する』名古屋大学出版会，2015年」 *Tokyo Academic Review of Books*, vol.22 (2021).
-
-https://doi.org/10.52509/tarb0022
+藤田翔 「TARB書評: 戸田山和久『科学的実在論を擁護する』名古屋大学出版会，2015年」 *Tokyo Academic Review of Books*, vol.22 (2021). https://doi.org/10.52509/tarb0022
  
 # 本講演のproceeding
-藤田翔, Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する』（評者 : 藤田翔）, *Proceedings of Commentary of TARB reviews*, vol.1 (2023).
-（DOIは後日掲載）
+藤田翔, Commentary of TARB reviews: 戸田山和久『科学的実在論を擁護する』（評者 : 藤田翔）, *Proceedings of Commentary of TARB reviews*, vol.1 (2023). （DOIは後日掲載）
 
 # 登壇者
 * 藤田 翔
@@ -40,6 +37,5 @@ https://doi.org/10.52509/tarb0022
 Editorial Board of Tokyo Academic Review of Books
  
 # 参加申込
-以下にご参加の旨お知らせください。
-
+以下にご参加の旨お知らせください。</br>
 books@yamanami.tokyo
