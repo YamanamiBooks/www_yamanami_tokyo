@@ -39,3 +39,7 @@ Editorial Board of Tokyo Academic Review of Books
 # 参加申込
 以下にご参加の旨お知らせください。</br>
 books@yamanami.tokyo
+
+---
+追記 (2024/01/05)： イベント当日の模様のダイジェスト版を以下にアップロードいたしました。</br>
+https://youtu.be/_zaniG3g-mw
