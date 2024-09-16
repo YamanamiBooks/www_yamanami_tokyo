@@ -7,7 +7,7 @@ title = "吉田駿太朗氏 新著刊行 Post-choreography"
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px; text-align: center;">
 <a href="https://www.routledge.com/Post-choreography-Jerome-Bels-Choreography-and-Movement-in-Malfunction/Yoshida/p/book/9781032303208">
-Yoshida, S. (2024).<br/> <i>Post-choreography: Jérôme Bel’s Choreography and Movement in Malfunction</i>. Routledge.<br/>https://www.routledge.com/Post-choreography-Jerome-Bels-Choreography-and-Movement-in-Malfunction/Yoshida/p/book/9781032303208</a> <br/> <a href="https://doi.org/10.4324/9781003304470">https://doi.org/10.4324/9781003304470</a>
+Yoshida, S. (2024).<br/><i>Post-choreography: Jérôme Bel’s Choreography and Movement in Malfunction</i>.<br/>Routledge.<br/>https://www.routledge.com/Post-choreography-Jerome-Bels-Choreography-and-Movement-in-Malfunction/Yoshida/p/book/9781032303208</a> <br/> <a href="https://doi.org/10.4324/9781003304470">https://doi.org/10.4324/9781003304470</a>
 </div>
 
 洋書を扱うお近くの書店やオンライン書店でご購入いただけます。ご覧ください。
