@@ -45,7 +45,6 @@ TARB公式サイト : [https://tarb.yamanami.tokyo/](https://tarb.yamanami.tokyo
 
 * TARB Archival Records 序説
 * 編集委員・評議員
-
 * 天本貴之評: Paul J. E. Dekker, *Dynamic Semantics*
 * 小林知恵評: Seumas Miller, *Dual Use Science and Technology, Ethics and Weapons of Mass Destruction*
 * 大畑浩志評: Berit Brogaard, *On Romantic Love: Simple Truths About a Complex Emotion*
