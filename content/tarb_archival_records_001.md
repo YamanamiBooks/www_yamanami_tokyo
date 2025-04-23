@@ -28,7 +28,7 @@ TARB公式サイト : [https://tarb.yamanami.tokyo/](https://tarb.yamanami.tokyo
 
 製本版はこちらでお買い求め戴けます。（書籍版 ISBN 978-4-909624086）
 
-* Amazon（準備中）
+* [Amazon](https://www.amazon.co.jp/dp/4909624082)
 * 楽天ブックス（準備中）
 * [三省堂書店 各店 （店舗一覧） ※注文後の生産となります。店頭端末では在庫なしと表示されますがご注文戴けます。](https://www.books-sanseido.co.jp/shop/)（準備中）
 
