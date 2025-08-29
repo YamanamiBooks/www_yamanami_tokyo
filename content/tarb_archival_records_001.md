@@ -1,5 +1,5 @@
 +++
-date = "2025-4-18T12:00:00+09:00"
+date = "2025-04-18T12:00:00+09:00"
 #menu = "main"
 title = "Tokyo Academic Review of Books Archival Records Volume I"
 type = "about"
