@@ -46,6 +46,10 @@ title = "TARB 新編集委員会・新評議員会・広報委員会 発足"
 
 ##### Public Relations Coordinator
 
+望月 美希 （静岡大学）
+
+##### Public Relations Coordinator
+
 槇原 彩 （成蹊大学）
 
 ##### Public Relations Coordinator
