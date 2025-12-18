@@ -29,3 +29,8 @@ weight = 10
 * [事業者概要](/enterprise)
 * [特定商取引に関する法律に基づく表示](/commercial-transaction)
 
+English descriptions of Yamanami Books
+* [Publishing programme and open access policy](/programme_oa)
+* [Rights and Licences](/licences)
+* [Peer Review Processes](/peerreview)
+* [Editorial Guidelines](/editorialguidelines)
