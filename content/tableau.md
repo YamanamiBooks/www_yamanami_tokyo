@@ -72,7 +72,7 @@ URL = "/tableau"
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "BookSeries",
   "@id": "https://doi.org/10.50856/logic-tableau-books",
   "name": "論理・タブローブックス",

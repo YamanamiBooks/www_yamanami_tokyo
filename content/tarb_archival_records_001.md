@@ -107,39 +107,72 @@ TARB公式サイト : [https://tarb.yamanami.tokyo/](https://tarb.yamanami.tokyo
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"editor": [
-		{
-			"@type": "Person",
-			"name": "Tokyo Academic Review of Books 編集委員会"
-		},
-        {
-			"@type": "Person",
-			"name": "横路 佳幸"
-		},
-		{
-			"@type": "Person",
-			"name": "飯澤 正登実"
-		},
-		{
-			"@type": "Person",
-			"name": "吉田 駿太朗"
-		}
-
-	],
-	"copyrightYear": "2025",
-	"copyrightHolder": {
-		"@type" : "Person",
-		"name" : "Tokyo Academic Review of Books 編集委員会"
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624086",
-	"name": "Tokyo Academic Reivew of Books Archival Records Volume I",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50856/978-4-909624086",
+  "name": "Tokyo Academic Review of Books Archival Records Volume I",
+  "inLanguage": "ja",
+  "copyrightYear": "2025",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Tokyo Academic Review of Books 編集委員会"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "https://schema.org/Paperback",
+      "isbn": "9784909624086"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "https://schema.org/EBook",
+      "isbn": "9784909624086"
+    }
+  ],
+  "editor": [
+    {
+      "@type": "Organization",
+      "name": "Tokyo Academic Review of Books 編集委員会"
+    },
+    {
+      "@type": "Person",
+      "name": "横路 佳幸",
+      "sameAs": [
+        "https://orcid.org/0000-0002-7501-5384",
+        "https://id.ndl.go.jp/auth/ndlna/031652237",
+        "https://researchmap.jp/yoshiyukiyokoro"
+      ],
+      "affiliation": {
+        "@type": "Organization",
+        "name": "名古屋学院大学"
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "飯澤 正登実",
+      "sameAs": [
+        "https://orcid.org/0000-0002-3735-0616",
+        "https://researchmap.jp/iizawamasatomi"
+      ]
+    },
+    {
+      "@type": "Person",
+      "name": "吉田 駿太朗",
+      "sameAs": [
+        "https://orcid.org/0000-0002-7940-3851",
+        "https://researchmap.jp/shuntaroyoshida"
+      ],
+      "affiliation": {
+        "@type": "Organization",
+        "name": "神戸大学大学院"
+      }
+    }
+  ]
 }
 </script>

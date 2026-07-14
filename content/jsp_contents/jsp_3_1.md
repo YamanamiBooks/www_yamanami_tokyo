@@ -113,7 +113,7 @@ Journal of Science and Philosophy 編集委員会
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "CreativeWorkSeries",
   "@id": "https://doi.org/10.50857/jsp",
   "name": "Journal of Science and Philosophy",
@@ -155,7 +155,7 @@ Journal of Science and Philosophy 編集委員会
 </script>
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "Book",
   "@id": "https://doi.org/10.50857/jsp3.1",
   "name": "Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020)",
@@ -185,12 +185,12 @@ Journal of Science and Philosophy 編集委員会
   "workExample": [
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/Paperback",
+      "bookFormat": "https://schema.org/Paperback",
       "isbn": "9784909624048"
     },
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/EBook",
+      "bookFormat": "https://schema.org/EBook",
       "isbn": "9784909624048"
     }
   ],

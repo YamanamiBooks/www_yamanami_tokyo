@@ -49,7 +49,7 @@ Journal of Science and Philosophy 編集委員会<br>
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "CreativeWorkSeries",
   "@id": "https://doi.org/10.50857/jsp",
   "name": "Journal of Science and Philosophy",

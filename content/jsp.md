@@ -65,7 +65,7 @@ Liberality, Matsubara 5-22-6, Setagaya-ku, Tokyo, 156-0043, Japan
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "CreativeWorkSeries",
   "@id": "https://doi.org/10.50857/jsp",
   "name": "Journal of Science and Philosophy",

@@ -121,7 +121,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "Book",
   "@id": "https://doi.org/10.50856/978-4-909624024",
   "name": "形式論理探求 第1巻 古典論理のタブロー",
@@ -151,12 +151,12 @@ URL = "/tableau_contents/tableau01classical_logic"
   "workExample": [
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/Paperback",
+      "bookFormat": "https://schema.org/Paperback",
       "isbn": "9784909624024"
     },
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/EBook",
+      "bookFormat": "https://schema.org/EBook",
       "isbn": "9784909624024"
     }
   ]

@@ -376,7 +376,7 @@ MathJax = {
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "Book",
   "@id": "https://doi.org/10.50856/978-4-909624055",
   "name": "素粒子読本",
@@ -419,12 +419,12 @@ MathJax = {
   "workExample": [
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/Paperback",
+      "bookFormat": "https://schema.org/Paperback",
       "isbn": "9784909624055"
     },
     {
       "@type": "Book",
-      "bookFormat": "http://schema.org/EBook",
+      "bookFormat": "https://schema.org/EBook",
       "isbn": "9784909624055"
     }
   ]

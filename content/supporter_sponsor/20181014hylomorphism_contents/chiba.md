@@ -47,7 +47,7 @@ URL = "/supporter_sponsor/20181014hylomorphism/chiba.html"
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
+	"@context": "https://schema.org",
 	"@type": "Event",
 	"name" : "ワークショップ「質料形相論の多角的な検討と応用」",
 	"description": "やまなみ書房はワークショップ「質料形相論の多角的な検討と応用」（日本科学哲学会第51回大会）を協力・後援しています。",
@@ -106,7 +106,7 @@ URL = "/supporter_sponsor/20181014hylomorphism/chiba.html"
 		"@type": "Offer",
 		"price": "1000",
 		"priceCurrency": "JPY",
-		"availability": "http://schema.org/InStock",
+		"availability": "https://schema.org/InStock",
 		"url": "http://pssj.info/program/program.html",
 		"validFrom": "2018-10-12T18:30:00+09:00"
 	},
