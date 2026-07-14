@@ -110,87 +110,145 @@ Journal of Science and Philosophy 編集委員会
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "CreativeWorkSeries",
-	"name" : "Journal of Science and Philosophy",
-	"alternateName" : "JSP",
-	"issn" : ["2434-2327", "2434-2335"],
-	"copyrightYear": "2018",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
-
+  "@context": "http://schema.org",
+  "@type": "CreativeWorkSeries",
+  "@id": "https://doi.org/10.50857/jsp",
+  "name": "Journal of Science and Philosophy",
+  "alternateName": "JSP",
+  "copyrightYear": "2018",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Online)",
+      "issn": "2434-2327"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Print)",
+      "issn": "2434-2335"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type" : "Organization",
-			"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-			"email" : "office-asp@yamanami.tokyo",
-			"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-			"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-			"address": {
-				"@type": "PostalAddress",
-				"addressLocality": "Tokyo, Japan",
-				"postalCode": "102-8554",
-				"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-				"addressCountry" : "JP"
-			}
-		},
-		{
-			"@type": "Person",
-			"name": "久野 真隆"
-		},
-		{
-			"@type": "Person",
-			"name": "杉尾 一"
-		},
-		{
-			"@type": "Person",
-			"name": "脇本 佑紀"
-		}
-	],
-	"copyrightYear": "2018",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624000",
-	"name": "Journal of Science and Philosophy Volume 1, Issue 1 (September, 2018)",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50857/jsp1.1",
+  "name": "Journal of Science and Philosophy Volume 1, Issue 1 (September, 2018)",
+  "inLanguage": "ja",
+  "numberOfPages": 82,
+  "copyrightYear": "2018",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624000"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624000"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp1.1.1",
+      "name": "創刊号へ向けて",
+      "author": {
+        "@type": "Person",
+        "name": "飯澤 正登実",
+        "sameAs": "https://orcid.org/0000-0002-3735-0616",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "やまなみ書房",
+          "alternateName": "Yamanami Books"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp1.1.6",
+      "name": "ハーバート・スペンサーにおける個人主義思想の再検討",
+      "author": {
+        "@type": "Person",
+        "name": "久野 真隆",
+        "sameAs": "https://orcid.org/0000-0002-3771-0474",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "慶應義塾大学大学院 文学研究科 哲学・倫理学専攻"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp1.1.25",
+      "name": "物理的 “実在” についての哲学的試論",
+      "author": {
+        "@type": "Person",
+        "name": "杉尾 一",
+        "sameAs": "https://orcid.org/0000-0002-6881-900X",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "上智大学 文学部 哲学科"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp1.1.42",
+      "name": "時を巡る思考の散策《フィールドワーク》",
+      "author": {
+        "@type": "Person",
+        "name": "脇本 佑紀",
+        "sameAs": "https://orcid.org/0000-0001-6455-8642",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "ニュートンワークス株式会社"
+        }
+      }
+    }
+  ]
 }
 </script>

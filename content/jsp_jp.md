@@ -69,30 +69,43 @@ Journal of Science and Philosophy 編集委員会
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "CreativeWorkSeries",
-	"name" : "Journal of Science and Philosophy",
-	"alternateName" : "JSP",
-	"issn" : ["2434-2327", "2434-2335"],
-	"copyrightYear": "2018",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "CreativeWorkSeries",
+  "@id": "https://doi.org/10.50857/jsp",
+  "name": "Journal of Science and Philosophy",
+  "alternateName": "JSP",
+  "copyrightYear": "2018",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Online)",
+      "issn": "2434-2327"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Print)",
+      "issn": "2434-2335"
+    }
+  ]
 }
 </script>

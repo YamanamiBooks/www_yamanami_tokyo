@@ -127,26 +127,44 @@ URL = "/analytical_mechanics"
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type": "Person",
-			"name": "細谷 曉夫"
-		}
-	],
-	"copyrightYear": "2019",
-	"copyrightHolder": {
-		"@type" : "Person",
-		"name" : "細谷 曉夫"
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624031",
-	"name": "解析力学",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50856/978-4-909624031",
+  "name": "解析力学",
+  "inLanguage": "ja",
+  "numberOfPages": 245,
+  "author": [
+    {
+      "@type": "Person",
+      "name": "細谷 曉夫",
+      "sameAs": [
+        "https://id.ndl.go.jp/auth/ndlna/00136995",
+        "https://akiobongo.wordpress.com/"
+      ]
+    }
+  ],
+  "copyrightYear": "2020",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "細谷 曉夫"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624031"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624031"
+    }
+  ]
 }
 </script>

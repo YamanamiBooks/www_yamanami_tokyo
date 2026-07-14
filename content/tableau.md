@@ -72,26 +72,31 @@ URL = "/tableau"
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type": "Person",
-			"name": "高木 翼"
-		}
-	],
-	"copyrightYear": "2019",
-	"copyrightHolder": {
-		"@type" : "Person",
-		"name" : "高木 翼"
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "",
-	"name": "論理・タブローブックス",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "BookSeries",
+  "@id": "https://doi.org/10.50856/logic-tableau-books",
+  "name": "論理・タブローブックス",
+  "inLanguage": "ja",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "高木 翼",
+      "sameAs": [
+        "https://orcid.org/0000-0001-9890-1015",
+        "https://www.jaist.ac.jp/is/labs/takagi/"
+      ]
+    }
+  ],
+  "copyrightYear": "2019",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "高木 翼"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/"
 }
 </script>

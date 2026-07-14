@@ -376,36 +376,57 @@ MathJax = {
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type": "Person",
-			"name": "樋口 正人"
-		}
-	],
-	"editor": [
-		{
-			"@type": "Person",
-			"name": "小林 悌二"
-		},
-		{
-			"@type": "Person",
-			"name": "齋藤 曉"
-		}
-	],
-	"copyrightYear": "2020",
-	"copyrightHolder": {
-		"@type" : "Person",
-		"name" : "樋口 正人"
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624055",
-	"name": "素粒子読本",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50856/978-4-909624055",
+  "name": "素粒子読本",
+  "inLanguage": "ja",
+  "numberOfPages": 433,
+  "author": [
+    {
+      "@type": "Person",
+      "name": "樋口 正人",
+      "sameAs": "https://id.ndl.go.jp/auth/ndlna/001359779",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "東北学院大学"
+      }
+    }
+  ],
+  "editor": [
+    {
+      "@type": "Person",
+      "name": "小林 悌二",
+      "sameAs": "https://id.ndl.go.jp/auth/ndlna/001359782"
+    },
+    {
+      "@type": "Person",
+      "name": "齋藤 曉",
+      "sameAs": "https://id.ndl.go.jp/auth/ndlna/001359792"
+    }
+  ],
+  "copyrightYear": "2020",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "樋口 正人"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624055"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624055"
+    }
+  ]
 }
 </script>

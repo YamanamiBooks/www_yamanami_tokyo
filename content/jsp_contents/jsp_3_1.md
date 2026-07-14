@@ -113,90 +113,149 @@ Journal of Science and Philosophy 編集委員会
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "CreativeWorkSeries",
-	"name" : "Journal of Science and Philosophy",
-	"alternateName" : "JSP",
-	"issn" : ["2434-2327", "2434-2335"],
-	"copyrightYear": "2018",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "CreativeWorkSeries",
+  "@id": "https://doi.org/10.50857/jsp",
+  "name": "Journal of Science and Philosophy",
+  "alternateName": "JSP",
+  "copyrightYear": "2018",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Online)",
+      "issn": "2434-2327"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Print)",
+      "issn": "2434-2335"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type" : "Organization",
-			"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-			"email" : "office-asp@yamanami.tokyo",
-			"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-			"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-			"address": {
-				"@type": "PostalAddress",
-				"addressLocality": "Tokyo, Japan",
-				"postalCode": "102-8554",
-				"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-				"addressCountry" : "JP"
-			}
-		},
-		{
-			"@type": "Person",
-			"name": "豊泉 英智"
-		},
-		{
-			"@type": "Person",
-			"name": "田村 歩"
-		},
-		{
-			"@type": "Person",
-			"name": "横路 佳幸"
-		},
-		{
-			"@type": "Person",
-			"name": "池上 日菜"
-		}
-	],
-	"copyrightYear": "2020",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624048",
-	"name": "Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020)",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50857/jsp3.1",
+  "name": "Journal of Science and Philosophy Volume 3, Issue 1 (March, 2020)",
+  "inLanguage": "ja",
+  "numberOfPages": 130,
+  "copyrightYear": "2020",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624048"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624048"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp3.1.1",
+      "name": "日本の研究界における男女格差について ——現状分析と格差解消に向けての提言——",
+      "author": {
+        "@type": "Person",
+        "name": "豊泉 英智",
+        "sameAs": "https://orcid.org/0000-0002-6529-6346",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Fred Hutchinson Cancer Research Center, Basic Science Division"
+        }
+      },
+      "subjectOf": {
+        "@type": "CreativeWork",
+        "@id": "https://doi.org/10.50857/jsp3.1.1.errata",
+        "name": "Errata: 日本の研究界における男女格差について ——現状分析と格差解消に向けての提言——"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp3.1.25",
+      "name": "哲学系国際誌への論文投稿に係る投稿先選定のための手引き ——哲学分野における主要な国際誌データベース情報、ハゲタカジャーナル情報、および国際誌と本邦学会誌との差異に関する試論——",
+      "author": {
+        "@type": "Person",
+        "name": "田村 歩",
+        "sameAs": "https://orcid.org/0000-0002-1249-324X",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "筑波大学"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp3.1.49",
+      "name": "書評:ケイト・マン 『ひれふせ、女たち』(小川芳範訳，慶應義塾大学出版会，2019 年)",
+      "author": {
+        "@type": "Person",
+        "name": "横路 佳幸",
+        "sameAs": "https://orcid.org/0000-0002-7501-5384",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "慶應義塾大学大学院 文学研究科 哲学・倫理学専攻"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp3.1.67",
+      "name": "科学コミュニケーションにおける構造的課題と解決策の検討 —ステークホルダー分析の必要性とその実践—",
+      "author": {
+        "@type": "Person",
+        "name": "池上 日菜",
+        "sameAs": "https://orcid.org/0000-0002-4416-5398",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "上智大学 文学部 哲学科"
+        }
+      }
+    }
+  ]
 }
 </script>

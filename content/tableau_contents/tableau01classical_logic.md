@@ -105,7 +105,7 @@ URL = "/tableau_contents/tableau01classical_logic"
 <p style= "margin: 0 0 10px 0;">高木 翼（たかぎ つばさ）</p>
 <p style= "margin: 0 0 10px 0;">1997年 東京都に生まれる。現在 法政大学文学部哲学科在学中。量子論理に関する発表で、<a href="https://gakkai-web.net/butsuri-jrsession/2015/shinsa.html">日本物理学会第11回Jr.セッション審査員特別賞</a>を受賞。論文<a href="https://netlify-test.yamanami.tokyo/jsp_contents/jsp_2_1/">「K4タブローによる妥当性判定と濾過法」（Journal of Science and Philosophy, Association for Science and Philosophy 編, 2019年）</a>。</p>
 <p><a href="https://orcid.org/0000-0001-9890-1015"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon">&nbsp; https://orcid.org/0000-0001-9890-1015</a></p>
-<p>著者webサイト：<a href="https://tt-logic.github.io/">https://tt-logic.github.io/</a></p>
+<p>著者webサイト：<a href="https://www.jaist.ac.jp/is/labs/takagi/">https://www.jaist.ac.jp/is/labs/takagi/</a></p>
 
 
 ### ライセンス
@@ -121,26 +121,44 @@ URL = "/tableau_contents/tableau01classical_logic"
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type": "Person",
-			"name": "高木 翼"
-		}
-	],
-	"copyrightYear": "2019",
-	"copyrightHolder": {
-		"@type" : "Person",
-		"name" : "高木 翼"
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624024",
-	"name": "形式論理探求 第1巻 古典論理のタブロー",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50856/978-4-909624024",
+  "name": "形式論理探求 第1巻 古典論理のタブロー",
+  "inLanguage": "ja",
+  "numberOfPages": 151,
+  "author": [
+    {
+      "@type": "Person",
+      "name": "高木 翼",
+      "sameAs": [
+        "https://orcid.org/0000-0001-9890-1015",
+        "https://www.jaist.ac.jp/is/labs/takagi/"
+      ]
+    }
+  ],
+  "copyrightYear": "2019",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "高木 翼"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624024"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624024"
+    }
+  ]
 }
 </script>

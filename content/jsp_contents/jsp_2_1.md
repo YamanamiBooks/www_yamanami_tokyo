@@ -118,90 +118,144 @@ Journal of Science and Philosophy 編集委員会
 
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "CreativeWorkSeries",
-	"name" : "Journal of Science and Philosophy",
-	"alternateName" : "JSP",
-	"issn" : ["2434-2327", "2434-2335"],
-	"copyrightYear": "2018",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	},
-	"license": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "http://schema.org",
+  "@type": "CreativeWorkSeries",
+  "@id": "https://doi.org/10.50857/jsp",
+  "name": "Journal of Science and Philosophy",
+  "alternateName": "JSP",
+  "copyrightYear": "2018",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Online)",
+      "issn": "2434-2327"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Journal of Science and Philosophy (Print)",
+      "issn": "2434-2335"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
 {
-	"@context": "http://schema.org",
-	"@type": "Book",
-	"author": [
-		{
-			"@type" : "Organization",
-			"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-			"email" : "office-asp@yamanami.tokyo",
-			"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-			"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-			"address": {
-				"@type": "PostalAddress",
-				"addressLocality": "Tokyo, Japan",
-				"postalCode": "102-8554",
-				"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-				"addressCountry" : "JP"
-			}
-		},
-		{
-			"@type": "Person",
-			"name": "高木 翼"
-		},
-		{
-			"@type": "Person",
-			"name": "横路 佳幸"
-		},
-		{
-			"@type": "Person",
-			"name": "山口 真子"
-		},
-		{
-			"@type": "Person",
-			"name": "杉尾 一"
-		}
-	],
-	"copyrightYear": "2019",
-	"copyrightHolder": {
-		"@type" : "Organization",
-		"name" : "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
-		"email" : "office-asp@yamanami.tokyo",
-		"logo" : "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
-		"publishingPrinciples" : "https://www.yamanami.tokyo/pdf/toukou.pdf",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Tokyo, Japan",
-			"postalCode": "102-8554",
-			"streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
-			"addressCountry" : "JP"
-		}
-	},
-	"inLanguage": "ja-JP",
-	"isbn": "9784909624017",
-	"name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019)",
-	"publisher" : {
-		"@type" : "Organization",
-		"name" : ["やまなみ書房", "Yamanami Books"]
-	}
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "@id": "https://doi.org/10.50857/jsp2.1",
+  "name": "Journal of Science and Philosophy Volume 2, Issue 1 (March, 2019)",
+  "inLanguage": "ja",
+  "numberOfPages": 87,
+  "copyrightYear": "2019",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Journal of Science and Philosophy editorial committee, Association for Science and Philosophy",
+    "email": "office-asp@yamanami.tokyo",
+    "logo": "https://www.yamanami.tokyo/images/recentWorks/ASP_title_ol.svg",
+    "publishingPrinciples": "https://www.yamanami.tokyo/pdf/toukou.pdf",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tokyo, Japan",
+      "postalCode": "102-8554",
+      "streetAddress": "Sophia University Bldg. 7 Room 313, 7-1 Kioicho, Chiyoda-ku",
+      "addressCountry": "JP"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "やまなみ書房",
+    "alternateName": "Yamanami Books"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "workExample": [
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/Paperback",
+      "isbn": "9784909624017"
+    },
+    {
+      "@type": "Book",
+      "bookFormat": "http://schema.org/EBook",
+      "isbn": "9784909624017"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp2.1.1",
+      "name": "創刊号から約半年を経て",
+      "author": {
+        "@type": "Person",
+        "name": "杉尾 一",
+        "sameAs": "https://orcid.org/0000-0002-6881-900X",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "上智大学 文学部 哲学科 / JSP 編集委員"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp2.1.4",
+      "name": "K4タブローによる妥当性判定と濾過法",
+      "author": {
+        "@type": "Person",
+        "name": "高木 翼",
+        "sameAs": "https://orcid.org/0000-0001-9890-1015",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "法政大学 文学部 哲学科"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp2.1.24",
+      "name": "アリストテレスにおける言語行為としての述定 ——桑原への簡潔なコメント——",
+      "author": {
+        "@type": "Person",
+        "name": "横路 佳幸",
+        "sameAs": "https://orcid.org/0000-0002-7501-5384",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "慶應義塾大学大学院 文学研究科 哲学・倫理学専攻"
+        }
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.50857/jsp2.1.37",
+      "name": "知識の獲得と観察の理論負荷性",
+      "author": {
+        "@type": "Person",
+        "name": "山口 真子",
+        "sameAs": "https://orcid.org/0000-0001-6504-6753",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "上智大学 文学部 哲学科"
+        }
+      }
+    }
+  ]
 }
 </script>
